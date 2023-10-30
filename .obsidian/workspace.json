@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ToolBox/Class Summary Template.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ToolBox/Class Summary Template.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ToolBox/Class Summary Template.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ToolBox/Class Summary Template.md"
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md"
               }
             }
           }
@@ -150,15 +150,17 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
+    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
+    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
+    "📓Classes/📁ECE 3004 - AC Analysis/📋Summary.md",
+    "📓Classes/📁ECE 3004 - AC Analysis/Chapter 1.md",
     "🛠️ToolBox/Book Homepage Template.md",
     "🛠️ToolBox/Class Summary Template.md",
     "README.md",
     "📓Classes/Freshman",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering",
-    "📓Classes/📁ECE 3004 - AC Analysis/📋Summary.md",
     "🛠️ToolBox",
     "📖Books/📘Fundamentals of Electric Circuits/🌎Home.md",
-    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
     "📓Classes/📁ECE 2544 - Digital Systems/Class 4.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 2544 - Digital Systems/Class 3.md",
