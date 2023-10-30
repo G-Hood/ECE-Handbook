@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🛠️ToolBox/Class Summary Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🛠️ToolBox/Class Summary Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🛠️ToolBox/Class Summary Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🛠️ToolBox/Class Summary Template.md"
               }
             }
           }
@@ -148,8 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b21fb7fc31e7895f",
+  "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
+    "🛠️ToolBox/Book Homepage Template.md",
+    "🛠️ToolBox/Class Summary Template.md",
+    "README.md",
     "📓Classes/Freshman",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering",
     "📓Classes/📁ECE 3004 - AC Analysis/📋Summary.md",
@@ -162,7 +165,6 @@
     "📓Classes/📁ECE 2714 - Signals & Systems/Class 1 (May 4, 2023).md",
     "📓Classes/📁ECE 3004 - AC Analysis",
     "📕ECE3004/Lecture 1.md",
-    "README.md",
     "📕ECE3004"
   ]
 }
