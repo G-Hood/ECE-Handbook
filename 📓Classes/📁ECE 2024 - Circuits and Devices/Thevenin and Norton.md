@@ -1,0 +1,7 @@
+
+### Thevenin
+
+
+### Norton
+
+
