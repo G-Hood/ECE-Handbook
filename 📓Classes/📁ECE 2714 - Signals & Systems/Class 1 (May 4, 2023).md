@@ -1,7 +1,7 @@
 ## Class Notes - Introduction
 **Signals and Systesms**
 
-
+N
 >[!Summary] Things to Learn
 > - Properties & Principles of Signals & Systems
 > - [[Interplay between Signals and Systems]]

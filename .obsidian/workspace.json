@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕ECE3004/Lecture 1.md",
+                "file": "📓Classes/📁ECE 2714 - Signals & Systems/Class 1 (May 4, 2023).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a5c7c61c195b6c3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕ECE3004/Lecture 1.md",
+                "file": "📓Classes/📁ECE 2714 - Signals & Systems/Class 1 (May 4, 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕ECE3004/Lecture 1.md",
+                "file": "📓Classes/📁ECE 2714 - Signals & Systems/Class 1 (May 4, 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕ECE3004/Lecture 1.md"
+                "file": "📓Classes/📁ECE 2714 - Signals & Systems/Class 1 (May 4, 2023).md"
               }
             }
           }
@@ -151,8 +150,8 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
-    "README.md",
     "📕ECE3004/Lecture 1.md",
+    "README.md",
     "📕ECE3004"
   ]
 }
