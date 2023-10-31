@@ -15,4 +15,4 @@
 >[!summary] [[Kirchhoff's Laws#Kirchhoff's Second Law|Kirchhoff's Second Law]]
 >Similar to Kirchhoff's First Law, the second law is based on the conservation of energy. This law states that the **algebraic sum of all voltage around a closed path is zero**.
 
->
+## 2.5 - Series Resistors and Voltage Division
