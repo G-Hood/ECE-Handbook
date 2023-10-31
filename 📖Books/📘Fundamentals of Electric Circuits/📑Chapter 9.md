@@ -1,2 +1,9 @@
 
-## Section 9
+## 9.1 - Introduction 
+
+
+## 9.2 - Sinusoids
+
+
+
+
