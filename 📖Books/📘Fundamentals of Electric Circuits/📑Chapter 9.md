@@ -10,12 +10,13 @@ Up until the late 1800's DC was the dominant power source used championed by the
 ## 9.2 - Sinusoids
 
 >[!summary] Summary
->Sinusoidal Voltages may all be defined of the basic fundamental form:
->$$ v(t) = V_m sin(\omega t) $$
+>Sinusoidal Voltages may all be defined as a function of time in the basic form:
+>$$ v(t) = V_m sin(\omega t + \theta) $$
 >Where:
+>$$v(t) = \text{= the instaneous voltage at any given point in time} $$
 >$$V_m \text{= the amplitude of the sinusoid}$$
 >$$ \omega \text{= the angular frequency in radians/s }$$
-
+>$$ \theta \text{= the phase angle}$$
 
 
 #### Properties of Sinusoids
@@ -30,3 +31,10 @@ Up until the late 1800's DC was the dominant power source used championed by the
 
 >[!summary] Summary
 >Phasors are another way we can represent sinusoids and provide us a powerful tool in the analysis of sinusoids. Put simply **a phasor is a complex number that represents the amplitude and phase of a sinusoid**. 
+
+>[!important] Why Use Phasors?
+>Phasors simplify a lot of the complex arithmetic that comes with sine and cosine functions.
+
+#### Complex Numbers
+### Arithmetic Operations with Phasors
+
