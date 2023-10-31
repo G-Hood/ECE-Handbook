@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md"
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
-    "Thomas Edison.md",
+    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
+    "Thomas Edison.md",
     "🛠️ToolBox/Extras",
     "_1b21e2da-1d4d-4eab-a46b-e7cd8c319da3.jpg",
     "filet",
     "🛠️ToolBox/Images",
     "📓Classes/📁ECE 2514 - Computational Engineering",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
-    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
     "📖Books/📘Fundamentals of Electric Circuits/🌎Home.md",
     "📓Classes/📁ECE 3004 - AC Analysis/📋Summary.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Chapter 1.md",
