@@ -14,6 +14,19 @@ Up until the late 1800's DC was the dominant power source used championed by the
 >$$ v(t) = V_m sin(\omega t) $$
 >Where:
 >$$V_m \text{= the amplitude of the sinusoid}$$
->$$ \omega \text{= the angular frequency in radians /s }
+>$$ \omega \text{= the angular frequency in radians/s }$$
 
 
+
+#### Properties of Sinusoids
+
+>Remember:
+>$$\omega = 2 \pi*f\text{ | Where f = frequency} $$
+>and the Period T:
+>$$ T= \frac{2\pi}{\omega} $$
+
+
+## 9.3 - Phasors
+
+>[!summary] Summary
+>Phasors are another way we can represent sinusoids and provide us a powerful tool in the analysis of sinusoids. Put simply **a phasor is a complex number that represents the amplitude and phase of a sinusoid**. 

@@ -1,0 +1,9 @@
+.markdown-preview-view mark {
+    background-color: var(--text-highlight-bg);
+    color: var(--text-normal);
+}
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: var(--text-highlight-bg);
+    color: var(--text-normal);
+}
