@@ -13,5 +13,6 @@
 >The above equation algebraically describes this principle. For N number of branches the sum of currents 1 to N, must be equal to 0. For usual convention this is that **current entering a node is positive**, **current leaving a node is considered negative.**
 
 >[!summary] [[Kirchhoff's Laws#Kirchhoff's Second Law|Kirchhoff's Second Law]]
->Similar to Kirchhoff's First Law, the second law is based on the conservation of energy. This law states that the **algebraic sum of all voltage around a closed path is zero**
+>Similar to Kirchhoff's First Law, the second law is based on the conservation of energy. This law states that the **algebraic sum of all voltage around a closed path is zero**.
+
 >
