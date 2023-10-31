@@ -21,6 +21,8 @@ Up until the late 1800's DC was the dominant power source used championed by the
 
 #### Properties of Sinusoids
 
+>[!important] Important!
+>$$ V_mcos(\omega t+\theta) = V_msin(\omega t+( \theta+ 90\degree) $$
 >Remember:
 >$$\omega = 2 \pi*f\text{ | Where f = frequency} $$
 >and the Period T:
