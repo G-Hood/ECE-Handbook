@@ -26,7 +26,7 @@ is at:
 
 >[!info]- Hints
 >1. We know the transfer function is equal to: $$ \frac{v_o}{v_i} $$ So, start by finding a way to express both those terms individually. 
->2. 
+>2. How does Vout and Vin relate to the impedance?
 >
 
 >[!success]- Solution
@@ -38,8 +38,8 @@ is at:
 > >[!example]- Explanation Of Solution
 > >In the given exercise, we have a simple RC circuit. We want to find the expression for the transfer function, given that: $$H(j \omega) = \frac{v_0}{v_i}$$
 > >
-> >To start, solve for
-> >
+> >To start, lets recognize how the output voltage and input voltage relate to impedance. Firstly, we know: $$V=IR$$
+> 
 
 
 
