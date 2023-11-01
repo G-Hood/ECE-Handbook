@@ -20,7 +20,7 @@ is at:
 -------
 ## Practice Problems
 
->[!question] 14.2
+>[!question] 14.1
 >Find the transfer function v<sub>o</sub>/v<sub>i</sub> of the RC circuit below. Express it using: $$ \omega _0 = \frac{1}{RC} $$
 >![[FoEC-Chapter14-Prob-14-1]]
 
@@ -39,6 +39,14 @@ is at:
 > >In the given exercise, we have a simple RC circuit. We want to find the expression for the transfer function, given that: $$H(j \omega) = \frac{v_0}{v_i}$$
 > >
 > >To start, lets recognize how the output voltage and input voltage relate to impedance. Firstly, we know: $$V=IR$$
+> >In this simple circuit, I is constant. So: $$V_o = I*R\text{ and } V_i = I*(R+C)$$
+> >Plugging those values in to our transfer function we get:
+> >$$ H(j \omega) = \frac{v_o}{v_i} = \frac{\cancel{I}*R}{\cancel{I}*(R+C)}=\frac{R}{R+C}$$
+> >Now with our wonderfully derived expressions, we can put their complex equivalents:
+> >$$\frac{R}{R+\frac{1}{j\omega C}} = \frac{R*j \omega C}{R*j \omega C+\frac{j \omega C}{j \omega C}} = \frac{R*j \omega C}{1+R*j \omega C}$$
+> >Lastly, we need to express the function using: $$ \omega _0 = \frac{1}{RC} $$
+> >So plugging into our equation:
+> >$$
 > 
 
 
@@ -51,6 +59,6 @@ is at:
 
 
 
-
+$$\cancel{x}$$
 
 
