@@ -24,12 +24,23 @@ is at:
 >Find the transfer function v<sub>o</sub>/v<sub>i</sub> of the RC circuit below. Express it using: $$ \omega _0 = \frac{1}{RC} $$
 >![[FoEC-Chapter14-Prob-14-1]]
 
+>[!info]- Hints
+>1. We know the transfer function is equal to: $$ \frac{v_o}{v_i} $$ So, start by finding a way to express both those terms individually. 
+>2. 
+>
+
 >[!success]- Solution
 >$$ H(j \omega) = \frac{\frac{j \omega}{\omega _0}}{1+\frac{j \omega}{\omega_0}} $$
 >Where:
->
->![[FoEC-Chapter14-Prob-14-1-solution]]
->
+>$$ \omega _0 = \frac{1}{RC} $$
+> 
+> 
+> >[!example]- Explanation Of Solution
+> >In the given exercise, we have a simple RC circuit. We want to find the expression for the transfer function, given that: $$H(j \omega) = \frac{v_0}{v_i}$$
+> >
+> >To start, solve for
+> >
+
 
 
 
