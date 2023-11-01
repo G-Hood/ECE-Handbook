@@ -17,3 +17,8 @@
 
 ## Practice Problems
 
+>[!QUESTION] 13.1
+>For the three coupled coils below, calculate the total inductance.
+>![](Pasted%20image%2020231101135125.png)
+>
+
