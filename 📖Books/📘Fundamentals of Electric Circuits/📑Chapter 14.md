@@ -66,6 +66,7 @@ is at:
  >
  >With our new circuit, we now need to derive equations for Vo and Vi.
  >
+ >In the case of the input voltage, we can simply place ground at the opposite end of the voltage source. We kn
  
  
 
