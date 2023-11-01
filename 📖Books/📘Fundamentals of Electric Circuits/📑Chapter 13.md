@@ -22,3 +22,7 @@
 >![](Pasted%20image%2020231101135125.png)
 >
 
+>[!info]- Hint
+
+>[!success]- Solution
+>
