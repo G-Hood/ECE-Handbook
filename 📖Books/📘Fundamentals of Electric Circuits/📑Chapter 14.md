@@ -46,8 +46,21 @@ is at:
 > >$$\frac{R}{R+\frac{1}{j\omega C}} = \frac{R*j \omega C}{R*j \omega C+\frac{j \omega C}{j \omega C}} = \frac{R*j \omega C}{1+R*j \omega C}$$
 > >Lastly, we need to express the function using: $$ \omega _0 = \frac{1}{RC} $$
 > >So plugging into our equation:
-> >$$
-> 
+> >$$ H(j \omega) = \frac{\frac{j \omega}{\omega _0}}{1+\frac{j \omega}{\omega_0}} $$
+
+----
+
+>[!question] 14.3
+>For the circuit below, find $$H(s) = \frac{v_o (s)}{v_i (s)} $$
+>![[FoEC-14-3]]
+
+>[!info]- Hints
+>d
+
+>[!success]- Solution
+ >For this problem we are tasked with finding the transfer function for the given circuit in the [[Laplace Domain]]. For this reason it's important recognize that we can simply represent s as: $$ s = j \omega $$
+ >
+ >As this is in the Laplace domain, the first thing we want to do is redraw the circuit with their associated impedances. 
 
 
 
@@ -55,10 +68,5 @@ is at:
 
 
 
-
-
-
-
-$$\cancel{x}$$
 
 
