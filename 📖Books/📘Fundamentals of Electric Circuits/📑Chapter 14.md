@@ -17,11 +17,18 @@ is at:
 > >$$H(s) = \frac{0}{2}$$
 > >$$H(s) = 0\text{ at s= -1} $$
 
+-------
+## Practice Problems
+
+>[!question] 14.2
+>Find the transfer function v<sub>o</sub>/v<sub>i</sub> of the RC circuit below. Express it using: $$ \omega _0 = \frac{1}{RC} $$
+>
 
 
 
 
 
+![FoEC-Chapter14-Prob-14-1](FoEC-Chapter14-Prob-14-1.md)
 
 
 
