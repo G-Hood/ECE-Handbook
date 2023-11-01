@@ -11,11 +11,41 @@
             "id": "c6a9b60f0fb636e2",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
+              }
+            }
+          },
+          {
+            "id": "f6c755863df410db",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9656a88efde3f4c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1-solution.md"
+              }
+            }
+          },
+          {
+            "id": "ef6b7e01264857c7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png"
               }
             }
           },
@@ -33,11 +63,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FoEC-Chapter14-Prob-14-1.md"
+                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,16 +197,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6a9b60f0fb636e2",
+  "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "FoEC-Chapter14-Prob-14-1.md",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1-solution.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+    "Drawing 2023-11-01 09.20.55.excalidraw.md",
+    "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
+    "README.md",
     "Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "Thomas Edison.md",
-    "README.md",
-    "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Excalidraw 1/Drawing 2023-11-01 08.48.12.excalidraw.md",
-    "Excalidraw",
+    "🛠️ToolBox/Excalidraw",
     "🛠️ToolBox/Excalidraw 1",
     "🛠️ToolBox/Excalidraw",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",

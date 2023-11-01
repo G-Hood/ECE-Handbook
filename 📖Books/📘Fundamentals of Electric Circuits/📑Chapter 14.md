@@ -22,13 +22,22 @@ is at:
 
 >[!question] 14.2
 >Find the transfer function v<sub>o</sub>/v<sub>i</sub> of the RC circuit below. Express it using: $$ \omega _0 = \frac{1}{RC} $$
+>![[FoEC-Chapter14-Prob-14-1]]
+
+>[!success]- Solution
+>$$ H(j \omega) = \frac{\frac{j \omega}{\omega _0}}{1+\frac{j \omega}{\omega_0}} $$
+>Where:
+>
+>![[FoEC-Chapter14-Prob-14-1-solution]]
 >
 
 
 
 
 
-![FoEC-Chapter14-Prob-14-1](FoEC-Chapter14-Prob-14-1.md)
+
+
+
 
 
 
