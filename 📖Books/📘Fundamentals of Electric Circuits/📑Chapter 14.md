@@ -61,6 +61,13 @@ is at:
  >For this problem we are tasked with finding the transfer function for the given circuit in the [[Laplace Domain]]. For this reason it's important recognize that we can simply represent s as: $$ s = j \omega $$
  >
  >As this is in the Laplace domain, the first thing we want to do is redraw the circuit with their associated impedances. 
+ >![[FOEC-14-3-redraw]]
+ >Like in exercise 14.1, the impedance of capacitor is: $$ \frac{1}{j \omega C}$$ In this case we simply substitute in s for jw.
+ >
+ >With our new circuit, we now need to derive equations for Vo and Vi.
+ >
+ 
+ 
 
 
 

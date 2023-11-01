@@ -43,9 +43,11 @@
             "id": "c962d6c55960b96b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "FoEC-14-3-redraw.md"
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FoEC-14-3-redraw.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FoEC-14-3-redraw.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FoEC-14-3-redraw.md"
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md"
               }
             }
           }
@@ -219,8 +221,9 @@
   },
   "active": "c962d6c55960b96b",
   "lastOpenFiles": [
+    "🛠️ToolBox/Excalidraw/FoEC-14-3-redraw.md",
+    "🛠️ToolBox/Images/Pasted Image 20231101104340_212.png",
     "🛠️ToolBox/Excalidraw/FoEC-14-3.md",
-    "FoEC-14-3-redraw.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
     "🛠️ToolBox/Images/Pasted Image 20231101102348_388.png",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
