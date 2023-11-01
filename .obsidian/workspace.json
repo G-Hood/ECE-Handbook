@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12c77fd28f58a97a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/FoEC-Chapter14-Prob-14-1.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,10 +159,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6a9b60f0fb636e2",
+  "active": "b21fb7fc31e7895f",
   "lastOpenFiles": [
-    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
+    "🛠️ToolBox/Excalidraw 1/Drawing 2023-11-01 08.48.12.excalidraw.md",
+    "Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+    "Excalidraw",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
+    "🛠️ToolBox/Excalidraw 1",
+    "🛠️ToolBox/Excalidraw",
+    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 9.md",
     "📖Books/📘Fundamentals of Electric Circuits/🔭Textbook Problems",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
@@ -169,12 +185,9 @@
     "README.md",
     "📓Classes/Freshman",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering",
-    "🛠️ToolBox",
     "📓Classes/📁ECE 2544 - Digital Systems/Class 4.md",
-    "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 2544 - Digital Systems/Class 3.md",
     "📓Classes/📁ECE 2714 - Signals & Systems/Class 1 (May 4, 2023).md",
-    "📓Classes/📁ECE 3004 - AC Analysis",
     "📕ECE3004/Lecture 1.md"
   ]
 }
