@@ -14,4 +14,7 @@ The first is, how we control the flow of electricity and the flow of energy. For
 ## 1.2 - Circuits, Currents, and Voltages
 
 >[!summary] Section Summary
->An **Electrical Circuit** is a circuit which typically consists of various [[Circuit Element|circuit elements]] which control [[Current|current]] and [[Voltage|voltage]] in a closed path, which is connected by [[Conductor|conductors]].  
+>An **Electrical Circuit** is a circuit which typically consists of various [[Circuit Element|circuit elements]] which control [[Electrical Current|current]] and [[Voltage|voltage]] in a closed path, which is connected by [[Conductor|conductors]].  
+![](Pasted%20image%2020231105123024.png)
+>In the above picture, we see an example of a simple resistive circuit.
+
