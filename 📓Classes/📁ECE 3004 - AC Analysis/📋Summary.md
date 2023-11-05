@@ -1,6 +1,6 @@
 
 >[!summary] Data
->Book : [[🌎Home|Fundamentals of Electric Circuits]]
+>Book : [[📖Books/📘Fundamentals of Electric Circuits/🌎Home|Fundamentals of Electric Circuits]]
 >Covers Chapters: =
 >
 >
