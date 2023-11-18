@@ -18,3 +18,6 @@ The first is, how we control the flow of electricity and the flow of energy. For
 ![](Pasted%20image%2020231105123024.png)
 >In the above picture, we see an example of a simple resistive circuit.
 
+001000 01001 01000 0000001000100000
+
+000000 01001 01000 00000 01000 100000
