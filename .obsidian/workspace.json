@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md"
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "dfe4e4653be69657",
   "lastOpenFiles": [
-    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Extras/Electrical Current.md",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
