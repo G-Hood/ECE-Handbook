@@ -17,6 +17,9 @@ is at:
 > >$$H(s) = \frac{0}{2}$$
 > >$$H(s) = 0\text{ at s= -1} $$
 
+
+![](Recording%2020231127004646.webm)
+
 -------
 ## Practice Problems
 
@@ -47,6 +50,7 @@ is at:
 > >Lastly, we need to express the function using: $$ \omega _0 = \frac{1}{RC} $$
 > >So plugging into our equation:
 > >$$ H(j \omega) = \frac{\frac{j \omega}{\omega _0}}{1+\frac{j \omega}{\omega_0}} $$
+
 
 ----
 
