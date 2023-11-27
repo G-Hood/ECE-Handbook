@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a5c7c61c195b6c3",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md"
+                "file": "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md"
               }
             }
           }
@@ -175,6 +174,7 @@
   },
   "active": "dfe4e4653be69657",
   "lastOpenFiles": [
+    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
     "🛠️ToolBox/Images/Recording 20231127004824.webm",
     "🛠️ToolBox/Images/Recording 20231127004747.webm",
     "🛠️ToolBox/Images/Recording 20231127004646.webm",
@@ -194,7 +194,6 @@
     "📓Classes/📁ECE 3105 - Electromagnetics 1/Mini-Project 2.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 13.md",
     "🛠️ToolBox/Extras/Magnetically Coupled.md",
-    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
     "🛠️ToolBox/Excalidraw/FoEC-14-3.md",
     "🛠️ToolBox/Extras/Kirchhoff's Laws.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1-solution.md",
@@ -219,7 +218,6 @@
     "🛠️ToolBox/Excalidraw 1",
     "🛠️ToolBox/Excalidraw",
     "📖Books/📘Fundamentals of Electric Circuits/🔭Textbook Problems",
-    "🛠️ToolBox/Extras",
     "_1b21e2da-1d4d-4eab-a46b-e7cd8c319da3.jpg"
   ]
 }
