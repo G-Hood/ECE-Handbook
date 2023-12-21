@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Summary.md",
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Summary.md",
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Summary.md",
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Summary.md"
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "dfe4e4653be69657",
   "lastOpenFiles": [
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Summary.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
     "🛠️ToolBox/Images/Recording 20231127004824.webm",
     "🛠️ToolBox/Images/Recording 20231127004747.webm",
@@ -214,7 +215,6 @@
     "Drawing 2023-11-01 09.20.55.excalidraw.md",
     "README.md",
     "Excalidraw/FoEC-Chapter14-Prob-14-1.md",
-    "🛠️ToolBox/Extras/Thomas Edison.md",
     "🛠️ToolBox/Excalidraw",
     "🛠️ToolBox/Excalidraw 1",
     "🛠️ToolBox/Excalidraw",
