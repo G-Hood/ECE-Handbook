@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,6 +174,12 @@
   },
   "active": "dfe4e4653be69657",
   "lastOpenFiles": [
+    "📓Classes/📁ECE 2214 - Physical Electronics/📁Homeworks/HW 4.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt/Untitled",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Problem",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Lectures",
     "README.md",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
     "🛠️ToolBox/Images/Recording 20231127004646.webm",
@@ -190,7 +196,6 @@
     "📓Classes/📁ECE 2544 - Digital Systems/Class 3.md",
     "📓Classes/📁ECE 2544 - Digital Systems/Class 4.md",
     "📓Classes/📁ECE 3105 - Electromagnetics 1/Class 1 - Introduction.md",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 15.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 14.md",
@@ -208,17 +213,12 @@
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 13.md",
     "🛠️ToolBox/Extras/Magnetically Coupled.md",
     "🛠️ToolBox/Excalidraw/FoEC-14-3.md",
-    "🛠️ToolBox/Extras/Kirchhoff's Laws.md",
     "📖Books/📘Electrical Engineering Principles and Applications/Chapter 1",
     "📖Books/📘Electrical Engineering Principles and Applications",
     "🛠️ToolBox/Images/Pasted image 20231101105555.png",
     "🛠️ToolBox/Images/Pasted image 20231101105547.png",
     "🛠️ToolBox/Images/Pasted image 20231101105541.png",
     "🛠️ToolBox/Images/Pasted Image 20231101102348_388.png",
-    "🛠️ToolBox/Excalidraw",
-    "🛠️ToolBox/Excalidraw 1",
-    "🛠️ToolBox/Excalidraw",
-    "📖Books/📘Fundamentals of Electric Circuits/🔭Textbook Problems",
     "_1b21e2da-1d4d-4eab-a46b-e7cd8c319da3.jpg"
   ]
 }
