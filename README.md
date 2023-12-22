@@ -6,7 +6,10 @@ Welcome to the ECE Handbook a comprehensive collection of notes and exercises fo
 >*All lectures and Homework's provided on canvas and in class are considered intellectual property of the Virginia Polytechnic Institute and State University, as such no contributions to the ECE Handbook should directly come from materials distributed by the University without explicit consent from the Professor or department*.
 
 >[!important] Linking
->The primary benefit of notes in obsidian is the ability to link notes. The idea behind the ECE handbook is that if a student is stuck on a concept in any class including an upper level 3000 or 4000 level course. They will be able to correct their understanding by reviewing the note 
+>The primary benefit of notes in obsidian is the ability to link notes. The idea behind the ECE handbook is that if a student is stuck on a concept in any class including an upper level 3000 or 4000 level course. They will be able to correct their understanding by reviewing corresponding notes and jumping down the rabbit hole to clarify any misunderstanding in underlying concepts. So linking is very important.
+>
+>Guidelines for Linking: **tbd**
+
 
 >[!summary] Structure
 >*to be amended*
