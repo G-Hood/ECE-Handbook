@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔭Abstracts/Untitled.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔭Abstracts/Untitled.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔭Abstracts/Untitled.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔭Abstracts/Untitled.md"
+                "file": "Test.md"
               }
             }
           }
@@ -162,9 +162,11 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "🔭Abstracts/Filters",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
     "Test.md",
     "🔭Abstracts/Untitled.md",
+    "🔭Abstracts/🚀Filters",
     "README.md",
     "🔭Abstracts",
     "Untitled.md",
@@ -188,7 +190,6 @@
     "📓Classes/📁ECE 2024 - Circuits and Devices/Untitled.md",
     "📓Classes/📁ECE 2024 - Circuits and Devices/Thevenin and Norton.md",
     "📓Classes/📁ECE 2024 - Circuits and Devices/Source Free RC and RL Circuits.md",
-    "📓Classes/📁ECE 2024 - Circuits and Devices/Op-Amps.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt/Untitled",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📝Practice",
@@ -202,7 +203,6 @@
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Images/Recording 20231127004538.webm",
     "🛠️ToolBox/Images/Pasted image 20231105122736.png",
-    "📖Books/📘Electrical Engineering Principles and Applications/Chapter 1",
     "🛠️ToolBox/Images/Pasted image 20231101105555.png",
     "🛠️ToolBox/Images/Pasted image 20231101105547.png",
     "🛠️ToolBox/Images/Pasted image 20231101105541.png",
