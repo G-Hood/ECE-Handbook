@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
+    "Test.md",
     "README.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1-solution.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
@@ -171,9 +173,7 @@
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Book Homepage Template.md",
     "🛠️ToolBox/Class Summary Template.md",
-    "Test.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
     "🔭Abstracts/Untitled.md",
     "🔭Abstracts/🚀Filters",
     "🔭Abstracts",
