@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+                "file": "📖Books/📘Electroencephalography Basic Principles, Clinical Applications, and Related Fiels/Reading Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+                "file": "📖Books/📘Electroencephalography Basic Principles, Clinical Applications, and Related Fiels/Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
+                "file": "📖Books/📘Electroencephalography Basic Principles, Clinical Applications, and Related Fiels/Reading Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md"
+                "file": "📖Books/📘Electroencephalography Basic Principles, Clinical Applications, and Related Fiels/Reading Notes.md"
               }
             }
           }
@@ -160,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6c755863df410db",
+  "active": "b21fb7fc31e7895f",
   "lastOpenFiles": [
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
     "Test.md",
     "README.md",
@@ -173,7 +174,6 @@
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Book Homepage Template.md",
     "🛠️ToolBox/Class Summary Template.md",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "🔭Abstracts/Untitled.md",
     "🔭Abstracts/🚀Filters",
     "🔭Abstracts",
