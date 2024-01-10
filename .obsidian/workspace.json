@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d461e903d1d29d1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b21fb7fc31e7895f",
+  "active": "d461e903d1d29d1a",
   "lastOpenFiles": [
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
