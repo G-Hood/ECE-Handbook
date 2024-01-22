@@ -24,5 +24,15 @@ $\LARGE A_m\cdot sin(\omega t)\longrightarrow A_m\angle-90°$
 $\LARGE V_s(t)=V_o\cdot sin(\omega t+\theta_o)=V_o\cdot cos(\omega t+\theta_o-90°)$
 $\LARGE =\text{Re}\{V_o\angle(\theta_o-90°)\}=\text{Re}\{V_o\cdot e^{j(\theta_o-90°)}\}$
 
+### Transmission Lines
 
+$\LARGE c=3\cdot10^8$
+$\LARGE \beta = \frac\omega c$
+
+if $f=60\ Hz,\ \omega=277$
+$\LARGE \beta=\frac{277}{300\cdot10^6}=10^{-6}$
+
+$\LARGE \beta x$ for 1 meter cable $=10\cdot10^{-6}=10^{-5}$ radians
+
+\*\*\* IRL, we choose $\beta$ such that $\beta x$ is small
 
