@@ -28,4 +28,7 @@ KCL @ Collector:
 $\LARGE v_og_o+g_mV_{BE}=0,\ \ \ v_i=V_{BE}$
 $\LARGE \frac{v_o}{v_i}=-\frac{g_m}{g_o}$
 
-b
+## BJT Regions
+
+For simplicity, assume BJTs are in forward active region (FAR) when $V_{CE}>0.2\ V$
+If $V_{CE}<0\ V,$ the BJT is in cutoff.
