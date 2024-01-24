@@ -1,6 +1,6 @@
 # Bipolar Junction Transistors
 
-![[Notes/📓Classes/📁ECE 3204 - Analog Electronics/2024-01-22|2024-01-22]]
+![[Notes/📓Classes/📁 ECE 3204 - Analog Electronics/Drawings/2024-01-22|2024-01-22]]
 $\LARGE I_C=I_S\cdot e^{\frac{V_{BE}}{V_T}}(1+\frac{V_{CE}}{V_A})$
 
 for large $V_A,$ $\LARGE\frac{V_{CE}}{V_A}\approx0$ and $\LARGE I_C=I_S\cdot e^{\frac{V_{BE}}{V_T}}$

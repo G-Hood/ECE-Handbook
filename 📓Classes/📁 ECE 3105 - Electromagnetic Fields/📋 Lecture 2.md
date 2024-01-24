@@ -1,4 +1,4 @@
-# Phasors
+ # Phasors
 
 - No time variation
 - Not scalers or vectors - just complex numbers
@@ -20,7 +20,7 @@ $\LARGE A_m\cdot cos(\omega t+\theta)\longrightarrow A_m\angle\theta=A_m\cdot e^
 
 $\LARGE A_m\cdot sin(\omega t)\longrightarrow A_m\angle-90°$
 
-![[Notes/📓Classes/📁ECE 3105 - Electromagnetic Fields/2024-01-22|250]]
+![[Notes/📓Classes/📁 ECE 3105 - Electromagnetic Fields/Drawings/2024-01-22|250]]
 $\LARGE V_s(t)=V_o\cdot sin(\omega t+\theta_o)=V_o\cdot cos(\omega t+\theta_o-90°)$
 $\LARGE =\text{Re}\{V_o\angle(\theta_o-90°)\}=\text{Re}\{V_o\cdot e^{j(\theta_o-90°)}\}$
 
