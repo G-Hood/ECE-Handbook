@@ -72,7 +72,6 @@ $\LARGE-(-\gamma\cdot V_o^+\cdot e^{-\gamma z}+\gamma\cdot V_o^-\cdot e^{\gamma 
 
 $\LARGE\gamma\cdot V_o^+\cdot e^{-\gamma z}-\gamma\cdot V_o^-\cdot e^{\gamma z}=[R'\cdot+j\omega L']\cdot(I_o^+\cdot e^{-\gamma z}+I_o^-\cdot e^{\gamma z})$
 
-
 and through some black magic sorcery, we find that:
 $\LARGE \frac{V_o^+}{I_o^+}=\frac{(R'+j\omega L')}{\gamma}=\sqrt\frac{R'+j\omega L'}{G'+j\omega C'}$
 
