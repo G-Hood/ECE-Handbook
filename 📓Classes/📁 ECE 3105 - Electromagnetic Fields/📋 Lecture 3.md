@@ -70,6 +70,11 @@ $\LARGE-\frac{\partial}{\partial z}(V_o^+\cdot e^{-\gamma z}+V_o^-\cdot e^{\gamm
 
 $\LARGE-(-\gamma\cdot V_o^+\cdot e^{-\gamma z}+\gamma\cdot V_o^-\cdot e^{\gamma z})=[R'\cdot+j\omega L']\cdot(I_o^+\cdot e^{-\gamma z}+I_o^-\cdot e^{\gamma z})$
 
-... #missing
+$\LARGE\gamma\cdot V_o^+\cdot e^{-\gamma z}-\gamma\cdot V_o^-\cdot e^{\gamma z}=[R'\cdot+j\omega L']\cdot(I_o^+\cdot e^{-\gamma z}+I_o^-\cdot e^{\gamma z})$
 
-$\LARGE \frac{V_o^+}{I_o^+}=\frac{(R'+j\omega L')}{\gamma}$          $\LARGE \frac{V_o^-}{I_o^-}=-\frac{(R'+j\omega L')}{\gamma}$
+
+and through some black magic sorcery, we find that:
+$\LARGE \frac{V_o^+}{I_o^+}=\frac{(R'+j\omega L')}{\gamma}=\sqrt\frac{R'+j\omega L'}{G'+j\omega C'}$
+
+$\LARGE \frac{V_o^-}{I_o^-}=-\frac{(R'+j\omega L')}{\gamma}=-\sqrt\frac{R'+j\omega L'}{G'+j\omega C'}$
+
