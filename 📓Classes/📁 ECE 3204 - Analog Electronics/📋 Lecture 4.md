@@ -1,6 +1,6 @@
 # MOS (Metal Oxide Semiconductor) Transistors
 
-![[Power/AAA Excalidraw/2024-01-24|2024-01-24]]
+![[Notes/📓Classes/📁 ECE 3204 - Analog Electronics/2024-01-24|2024-01-24]]
 
 In NMOS linear/triode region:
 $\LARGE I_{DS}=\mu C_{ox}\frac{W}{L}[(V_{GS}-V_{TH})V_{DS}-\frac{V_{DS}^2}{2})]$

@@ -4,7 +4,7 @@
 - These are measured per unit length, and the length of a transmission line needs to be accounted for when calculating its overall Impedance.
 - Any structure or cable that guides an electromagnetic wave can be considered a transmission line.
   
-  ![[2024-01-24]]
+  ![[Notes/📓Classes/📁 ECE 3105 - Electromagnetic Fields/Drawings/2024-01-24]]
   
 Using KVL:
 
