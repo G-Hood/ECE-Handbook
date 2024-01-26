@@ -26,3 +26,5 @@ $$ {X-Ray\space Band }\space | \space 3*10^{16} Hz - 3 * 10^{19} Hz $$*
 $$ \lambda = \frac{c}{f} $$
 *The wavelength of a electromagnetic field is equal to the speed at which an electromagnetic field propagate, (c) aka the speed of light, divided by the frequency*
 
+
+# Section 1.3

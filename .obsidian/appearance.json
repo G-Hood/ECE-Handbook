@@ -3,5 +3,6 @@
   "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "style"
-  ]
+  ],
+  "baseFontSize": 19
 }
