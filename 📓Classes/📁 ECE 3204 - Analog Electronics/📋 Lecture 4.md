@@ -34,3 +34,18 @@ $\LARGE v_b=(v_i-v_e)\frac{r_\pi}{R_B+r_\pi}$
 $\LARGE \frac{i_o}{v_i}=G_m\approx\frac{g_m}{1+g_mR_E}$
 
 $\LARGE R_T\approx r_o(1+g_mR_E)//R_C$
+
+## Common Base
+![[2024-01-29_2|1000]]
+
+#todo: clean this up lmfao
+
+
+TLDR:
+
+$\LARGE G_m=g_m$
+
+$\LARGE R_T=r_o(1+g_mR_E)//R_C$
+
+if $R_C<<\infty$
+$\LARGE V_D=\frac{r_m//R_E}{E_S+r_m//R_E}$
