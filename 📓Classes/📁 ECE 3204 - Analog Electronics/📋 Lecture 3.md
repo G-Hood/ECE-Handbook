@@ -1,34 +1,53 @@
-# Bipolar Junction Transistors
+# MOS (Metal Oxide Semiconductor) Transistors
 
-![[Notes/📓Classes/📁 ECE 3204 - Analog Electronics/Drawings/2024-01-22|2024-01-22]]
-$\LARGE I_C=I_S\cdot e^{\frac{V_{BE}}{V_T}}(1+\frac{V_{CE}}{V_A})$
+![[Notes/📓Classes/📁 ECE 3204 - Analog Electronics/2024-01-24|2024-01-24]]
 
-for large $V_A,$ $\LARGE\frac{V_{CE}}{V_A}\approx0$ and $\LARGE I_C=I_S\cdot e^{\frac{V_{BE}}{V_T}}$
+In NMOS linear/triode region:
+$\LARGE I_{DS}=\mu C_{ox}\frac{W}{L}[(V_{GS}-V_{TH})V_{DS}-\frac{V_{DS}^2}{2})]$
 
-- BJTs are Voltage Controlled Current Sources.
-- We give an input voltage $V_{BE}$ and are given an output current $I_C$.
-- We then run $I_C$ through a resistor to get an output voltage.
+In NMOS saturation region:
+$\LARGE I_{DS}=\frac12\mu C_{ox}\frac{W}{L}(V_{GS}-V_{TH})^2(1+\lambda V_{DS})$
 
-## Transconductance
+## MOS Construction
+![[2024-01-24_0]]
+### Which terminal is the drain?
 
-$\LARGE g_m=\frac{\partial I_C}{\partial V_{BE}}=\frac{I_C}{V_T}$
+With bipolar devices, the circuit designer decides.
 
-$\LARGE g_o\triangleq$ output conductance $\LARGE=\frac1{r_o}=\frac{\partial I_C}{\partial V_{CE}}=\frac{I_C}{V_A}$
+NMOS: DRAIN is the HIGHEST potential between drain and source terminals
+- electrons flow from low to high
+PMOS: DRAIN is the LOWEST potential between drain and source terminals
+- holes flow from high to low
 
-$\LARGE r_\pi\triangleq$ base emitter resistance $\LARGE=\frac\beta{g_m}$
+## PMOS vs NMOS
 
-$\LARGE\beta\triangleq$ base-collector current gain $\LARGE=\frac{I_C}{I{\beta}}\approx100$
+Instead of using separate equations for NMOS and PMOS, just reverse the subscripts used for NMOS when solving PMOS circuits, also - always use the absolute value of the threshold voltage
 
-$\LARGE A_o=$ intrinsic gain $\LARGE=\frac{g_m}{g_o}=\frac{V_A}{V_T}$
+NMOS Rules:
+
+| $\LARGE V_{GS}>V_{TH}$ | $\LARGE V_{GD}<V_{TH}$ | $\LARGE V_{DS}<V_{GS}-V_{TH}$ |
+| :--: | :--: | :--: |
+| On | Saturation | Linear/Triode |
+| $\LARGE I_{DS}=\mu C_{ox}\cdot$ | $\LARGE \frac12\frac{W}{L}(V_{GS}-V_{TH})^2(1+\lambda V_{DS})$ | $\LARGE\mu [(V_{GS}-V_{TH})V_{DS}-\frac{V_{DS}^2}{2})]$ |
 
 ## Small Signal Model
 
-![[2024-01-22 1]]
-KCL @ Collector:
-$\LARGE v_og_o+g_mV_{BE}=0,\ \ \ v_i=V_{BE}$
-$\LARGE \frac{v_o}{v_i}=-\frac{g_m}{g_o}$
+![[2024-01-24_1|500]]
+$\LARGE g_m=\frac{\partial I_{DS}}{\partial V_{GS}}=k'V_{DS}^\text{sat}=\mu C_{ox}\frac WL(V_{GS}-V_{TH})=\frac{2I_{DS}}{V_{DS}^\text{sat}}=\sqrt{2I_{DS}\mu C_{ox}\frac WL}$
 
-## BJT Regions
+$\LARGE V_{DS}^\text{sat}=V_{ov}=V_{GS}-V_{TH}=\sqrt\frac{2W\cdot I_{DS}}{\mu C_{ox}L}$
 
-For simplicity, assume BJTs are in forward active region (FAR) when $V_{CE}>0.2\ V$
-If $V_{CE}<0\ V,$ the BJT is in cutoff.
+$\LARGE k'=\mu C_{ox}\frac WL$
+
+$\LARGE g_o=\frac{\partial I_{DS}}{\partial V_{DS}}=\lambda\cdot I_{DS}\longrightarrow r_o=\frac{1}{g_o}=\frac{1}{\lambda\cdot I_{DS}}$
+
+Triode:
+$\LARGE g_{ds}=\frac{\partial I_{DS}}{\partial V_{GS}}=\mu C_{ox}\frac WL(V_{DS}^\text{sat}-V_{DS})\longrightarrow r_{ds}=\frac{1}{g_{ds}}$
+
+![[2024-01-24_2]]
+
+
+
+
+
+

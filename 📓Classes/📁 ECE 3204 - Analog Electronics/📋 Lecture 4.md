@@ -1,53 +1,22 @@
-# MOS (Metal Oxide Semiconductor) Transistors
+# BJT Amplifiers
 
-![[Notes/📓Classes/📁 ECE 3204 - Analog Electronics/2024-01-24|2024-01-24]]
+![[2024-01-29]]
+## Common Emitter
+![[2024-01-29_0|1000]]
+KCL @ Base
+$\LARGE \frac{v_{b}-v_s}{R_S}+\frac{v_{b}}{R_E}+\frac{v_be}{r_\pi}=0$
 
-In NMOS linear/triode region:
-$\LARGE I_{DS}=\mu C_{ox}\frac{W}{L}[(V_{GS}-V_{TH})V_{DS}-\frac{V_{DS}^2}{2})]$
+KCL @ Emitter
+$\LARGE \frac{v_{eb}}{r_\pi}+\frac{v_e}{R_E}+g_mv_{be}+\frac{v_e-v_o}{r_o}+\frac{v_e-v_o}{R_C}=0$
 
-In NMOS saturation region:
-$\LARGE I_{DS}=\frac12\mu C_{ox}\frac{W}{L}(V_{GS}-V_{TH})^2(1+\lambda V_{DS})$
+$\LARGE \frac{v_o}{v_i}=-\frac{R_1//R_2//[(\beta+1)R_E+r_\pi]}{R_S+R_1//R_2//[(\beta+1)R_E+r_\pi]}\cdot\frac{g_m}{1+g_mR_E}\cdot (R_C//(r_o(1+g_mR_E))$
 
-## MOS Construction
-![[2024-01-24_0]]
-### Which terminal is the drain?
+![[2024-01-29_1]]
+$\LARGE G_m=$ Transconductance of whole circuit
+$\LARGE G_m=\frac{\partial i_o}{\partial v_i}|_{v_o=0}=\frac{g_m}{1+g_mR_E}$
 
-With bipolar devices, the circuit designer decides.
+$\LARGE R_T=$ Driving Point Resistance
+$\LARGE R_T=\frac{\partial v_o}{\partial i_o}|_{i_i=0}$ (open circuit input)
 
-NMOS: DRAIN is the HIGHEST potential between drain and source terminals
-- electrons flow from low to high
-PMOS: DRAIN is the LOWEST potential between drain and source terminals
-- holes flow from high to low
-
-## PMOS vs NMOS
-
-Instead of using separate equations for NMOS and PMOS, just reverse the subscripts used for NMOS when solving PMOS circuits, also - always use the absolute value of the threshold voltage
-
-NMOS Rules:
-
-| $\LARGE V_{GS}>V_{TH}$ | $\LARGE V_{GD}<V_{TH}$ | $\LARGE V_{DS}<V_{GS}-V_{TH}$ |
-| :--: | :--: | :--: |
-| On | Saturation | Linear/Triode |
-| $\LARGE I_{DS}=\mu C_{ox}\cdot$ | $\LARGE \frac12\frac{W}{L}(V_{GS}-V_{TH})^2(1+\lambda V_{DS})$ | $\LARGE\mu [(V_{GS}-V_{TH})V_{DS}-\frac{V_{DS}^2}{2})]$ |
-
-## Small Signal Model
-
-![[2024-01-24_1|500]]
-$\LARGE g_m=\frac{\partial I_{DS}}{\partial V_{GS}}=k'V_{DS}^\text{sat}=\mu C_{ox}\frac WL(V_{GS}-V_{TH})=\frac{2I_{DS}}{V_{DS}^\text{sat}}=\sqrt{2I_{DS}\mu C_{ox}\frac WL}$
-
-$\LARGE V_{DS}^\text{sat}=V_{ov}=V_{GS}-V_{TH}=\sqrt\frac{2W\cdot I_{DS}}{\mu C_{ox}L}$
-
-$\LARGE k'=\mu C_{ox}\frac WL$
-
-$\LARGE g_o=\frac{\partial I_{DS}}{\partial V_{DS}}=\lambda\cdot I_{DS}\longrightarrow r_o=\frac{1}{g_o}=\frac{1}{\lambda\cdot I_{DS}}$
-
-Triode:
-$\LARGE g_{ds}=\frac{\partial I_{DS}}{\partial V_{GS}}=\mu C_{ox}\frac WL(V_{DS}^\text{sat}-V_{DS})\longrightarrow r_{ds}=\frac{1}{g_{ds}}$
-
-![[2024-01-24_2]]
-
-
-
-
-
+$\LARGE A_V=G_m\cdot R_T$
 
