@@ -36,3 +36,6 @@ Assuming lossless:
 $\LARGE Z_o=\sqrt{\dfrac{\frac{\mu_o ln(\frac ba)}{2\pi}}{\frac{2\pi\epsilon_s}{ln(\frac ba)}}}=2\pi ln(\frac ba)\sqrt{\frac{\mu_o}{\epsilon_s}}$
 
 Typically $\LARGE\epsilon_r\approx2.25,\ \ \ \sigma_s=5.9\cdot10^{-5}$
+
+To find the distance for some $\%$ attenuation, use the formula:
+$\LARGE d=-\frac{ln(\%)}{\alpha}$
