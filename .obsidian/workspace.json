@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md"
               }
             }
           }
@@ -160,10 +160,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b21fb7fc31e7895f",
+  "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎 Summary.md",
+    "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md",
     "Test.md",
+    "📓Classes/📁ECE 3704 - Continuous and Discrete",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "README.md",
     "📖Books/For Fun/Maxwell's Equations.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
@@ -181,7 +184,6 @@
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋 Lecture 1.md",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎 Summary.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
@@ -197,9 +199,7 @@
     "🔭Abstracts",
     "Untitled.md",
     "🛠️ToolBox/Extras/Electrical Current.md",
-    "📓Classes/📁ECE 2564 - Embedded Systems/Class 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt/Untitled",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
     "🛠️ToolBox/Images/Pasted image 20231101135125.png",
     "🛠️ToolBox/Images/Pasted Image 20231101104340_212.png",
