@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/For Fun/Maxwell's Equations.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
+                "file": "Test.md"
               }
             }
           }
@@ -160,14 +160,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b21fb7fc31e7895f",
+  "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
+    "README.md",
     "📖Books/For Fun/Maxwell's Equations.md",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
     "📖Books/For Fun",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 2.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/🌐About.md",
-    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📓Classes/📁 ECE 3204 - Analog Electronics/Drawings/2024-01-22.md",
     "📓Classes/📁 ECE 3204 - Analog Electronics/Drawings/2024-01-22 1.md",
     "📓Classes/📁 ECE 3204 - Analog Electronics/📋 Lecture 3.md",
@@ -184,7 +185,6 @@
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
     "Test.md",
-    "README.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1-solution.md",
     "🛠️ToolBox/Excalidraw/FoEC-14-3-redraw.md",
     "🛠️ToolBox/Excalidraw/FoEC-14-3.md",
