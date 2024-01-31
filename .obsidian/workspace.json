@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/For Fun/Maxwell's Equations.md",
+                "file": "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/For Fun/Maxwell's Equations.md",
+                "file": "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/For Fun/Maxwell's Equations.md",
+                "file": "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/For Fun/Maxwell's Equations.md"
+                "file": "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md"
               }
             }
           }
@@ -162,29 +162,33 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
+    "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md",
+    "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md",
+    "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 2.md",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 3.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎 Summary.md",
+    "Test.md",
+    "📓Classes/📁ECE 3704 - Continuous and Discrete",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+    "README.md",
     "📖Books/For Fun/Maxwell's Equations.md",
+    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
     "📖Books/For Fun",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 2.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/🌐About.md",
-    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
-    "📓Classes/📁 ECE 3204 - Analog Electronics/Drawings/2024-01-22.md",
-    "📓Classes/📁 ECE 3204 - Analog Electronics/Drawings/2024-01-22 1.md",
-    "📓Classes/📁 ECE 3204 - Analog Electronics/📋 Lecture 3.md",
-    "📓Classes/📁 ECE 3204 - Analog Electronics/Drawings",
-    "📓Classes/📁 ECE 3204 - Analog Electronics",
-    "📓Classes/📁 ECE 3105 - Electromagnetic Fields/Drawings/2024-01-22.md",
-    "📓Classes/📁 ECE 3105 - Electromagnetic Fields/📋 Lecture 3.md",
-    "📓Classes/📁 ECE 3105 - Electromagnetic Fields/📋 Lecture 2.md",
-    "📓Classes/📁 ECE 3105 - Electromagnetic Fields/Drawings",
-    "📓Classes/📁 ECE 3105 - Electromagnetic Fields",
-    "📓Classes/📁 ECE 1004 - Introduction to Electrical Engineering/📋 Lecture 1.md",
-    "📓Classes/📁 ECE 1004 - Introduction to Electrical Engineering/🌎 Summary.md",
-    "📓Classes/📁 ECE 1004 - Introduction to Electrical Engineering",
+    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-22.md",
+    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-22 1.md",
+    "📓Classes/📁ECE 3204 - Analog Electronics/📋 Lecture 3.md",
+    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings",
+    "📓Classes/📁ECE 3204 - Analog Electronics",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings/2024-01-22.md",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋 Lecture 1.md",
+    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/📋Lecture 1.md",
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎Summary.md",
-    "Test.md",
-    "README.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1-solution.md",
     "🛠️ToolBox/Excalidraw/FoEC-14-3-redraw.md",
     "🛠️ToolBox/Excalidraw/FoEC-14-3.md",
@@ -196,10 +200,6 @@
     "🔭Abstracts/🚀Filters",
     "🔭Abstracts",
     "Untitled.md",
-    "🛠️ToolBox/Extras/Electrical Current.md",
-    "📓Classes/📁ECE 2564 - Embedded Systems/Class 1.md",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt/Untitled",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/Keyt",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
     "🛠️ToolBox/Images/Pasted image 20231101135125.png",
     "🛠️ToolBox/Images/Pasted Image 20231101104340_212.png",
