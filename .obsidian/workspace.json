@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
+                "file": "📓Classes/📁ECE 3105 - Electromagnetic Fields/Lecture 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a5c7c61c195b6c3",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
+                "file": "📓Classes/📁ECE 3105 - Electromagnetic Fields/Lecture 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
+                "file": "📓Classes/📁ECE 3105 - Electromagnetic Fields/Lecture 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md"
+                "file": "📓Classes/📁ECE 3105 - Electromagnetic Fields/Lecture 10.md"
               }
             }
           }
@@ -175,8 +174,10 @@
   },
   "active": "2f6e8c7ee26939a1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 5.md",
+    "📓Classes/📁ECE 3105 - Electromagnetic Fields/Lecture 10.md",
     "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
+    "Untitled.md",
     "📓Classes/📁ECE 3074 - AC Lab",
     "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/📋 Lecture 4.md",
@@ -191,7 +192,6 @@
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24_0.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-22 1 1.md",
-    "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 5.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 4.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings/2024-01-24.md",
     "📓Classes/📁ECE 3704 - Continuous and Discrete/📋Lecture 4.md",
@@ -203,7 +203,6 @@
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "README.md",
-    "📖Books/For Fun/Maxwell's Equations.md",
     "📖Books/For Fun",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings",
     "📓Classes/📁ECE 3204 - Analog Electronics",
