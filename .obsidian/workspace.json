@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md"
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md"
               }
             }
           }
@@ -174,10 +174,10 @@
   },
   "active": "2f6e8c7ee26939a1",
   "lastOpenFiles": [
+    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 3.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 4.md",
-    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 5.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Lecture 10.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Untitled",
