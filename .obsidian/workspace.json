@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md"
+                "file": "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md"
               }
             }
           }
@@ -172,10 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f6e8c7ee26939a1",
+  "active": "b21fb7fc31e7895f",
   "lastOpenFiles": [
-    "Circuit Element.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+    "📖Books/For Fun/Maxwell's Equations.md",
+    "Circuit Element.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 3.md",
@@ -201,7 +202,6 @@
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24_2.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24_1.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24_0.md",
-    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "📖Books/For Fun",
