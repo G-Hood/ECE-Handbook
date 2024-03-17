@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f57349ccb9738ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -168,10 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6c755863df410db",
+  "active": "f57349ccb9738ba9",
   "lastOpenFiles": [
-    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/🌎Summary.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
+    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/🌎Summary.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑An Intro.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
@@ -198,8 +212,6 @@
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings/2024-01-22.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings/2024-01-24.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 5.md",
-    "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 2.md",
-    "Untitled.md",
     "📓Classes/📁ECE 3074 - AC Lab",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
