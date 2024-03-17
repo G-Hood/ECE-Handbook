@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+                "file": "🛠️ToolBox/Extras/Electrical Current.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🛠️ToolBox/Extras/Electrical Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🛠️ToolBox/Extras/Electrical Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🛠️ToolBox/Extras/Electrical Current.md"
+              }
             }
           }
         ]
@@ -165,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f6e8c7ee26939a1",
+  "active": "f6c755863df410db",
   "lastOpenFiles": [
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "Ground.md",
