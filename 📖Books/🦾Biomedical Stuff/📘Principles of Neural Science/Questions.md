@@ -8,5 +8,8 @@
 >- What is the nature of decision making, how does impulse relate to concious decision
 >- How does memory influence personality
 >- How does the mind store memories
->- 
+>- What is the conscious mind and the subconscious
+>- Why are dreams so wacky and often fantastical
+>- In what way is the neural circuit analogous or similar to electrical circuits
+
 

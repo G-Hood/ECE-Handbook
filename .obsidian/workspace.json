@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md"
+                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/🌎Summary.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
