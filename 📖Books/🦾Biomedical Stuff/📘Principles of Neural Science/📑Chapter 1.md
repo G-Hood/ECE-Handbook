@@ -8,3 +8,8 @@
 >[!example] Uh What?
 >- The specificity of the synaptic connections established
 during development and refined during experience underlie behavior
+
+# Overall Perspective
+>[!summary] Summary
+>In the section titled "Overall Perspective" we begin to explore the topic and field of neural science. It begins by going over the history of the field and how we have more recently switched from focusing on the body and genes to 
+
