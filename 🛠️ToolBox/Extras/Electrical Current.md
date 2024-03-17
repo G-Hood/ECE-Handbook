@@ -3,7 +3,7 @@
 >$$ -1.602*10^{-19} C $$
 >
 >>[!example]- Analogy
->>Another way to think of current is like cars on the h
+>>
 
 >[!info] Key
 >Units: Amps (A)
