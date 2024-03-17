@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
+                "file": "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology/📑Chapter 1.md"
               }
             }
           }
@@ -170,8 +170,12 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
-    "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
+    "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology/🌎Summary.md",
+    "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology/📑Chapter 1.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "📖Books/🦾Biomedical Stuff/📘Medical Neurobiology",
+    "📖Books/🦾Biomedical Stuff",
+    "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "🛠️ToolBox/Extras/Electrical Current.md",
     "📖Books/📘Introduction To Probability And Statistics",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
@@ -197,15 +201,11 @@
     "📓Classes/📁ECE 3074 - AC Lab",
     "📓Classes/📁ECE 3204 - Analog Electronics/📋 Lecture 4.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/📋 Lecture 2.md",
-    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_3 1.md",
-    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_2 1.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "📖Books/For Fun",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings",
     "📓Classes/📁ECE 3204 - Analog Electronics",
-    "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings",
-    "📓Classes/📁ECE 3105 - Electromagnetic Fields",
     "🛠️ToolBox/Images/Pasted Image 20231101102348_388.png",
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
