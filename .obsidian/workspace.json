@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ToolBox/Extras/Electrical Current.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md"
+              }
             }
           }
         ]
@@ -165,9 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f6e8c7ee26939a1",
+  "active": "f6c755863df410db",
   "lastOpenFiles": [
     "🛠️ToolBox/Extras/Electrical Current.md",
+    "📖Books/📘Introduction To Probability And Statistics/Summary.md",
+    "📖Books/📘Introduction To Probability And Statistics",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "Ground.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 6.md",
@@ -194,7 +199,6 @@
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_3 1.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_2 1.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_1 1.md",
-    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_0 1.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "📖Books/For Fun",
@@ -202,7 +206,6 @@
     "📓Classes/📁ECE 3204 - Analog Electronics",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields",
-    "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering",
     "🛠️ToolBox/Images/Pasted Image 20231101102348_388.png",
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
