@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,11 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6c755863df410db",
+  "active": "2f6e8c7ee26939a1",
   "lastOpenFiles": [
+    "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+    "Ground.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 6.md",
     "🛠️ToolBox/📋Maintenance.md",
-    "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "📓Classes/📁ECE 3004 - AC Analysis/📋Lecture 4.md",
     "📓Classes/📁ECE 3074 - AC Lab/Lecture 4 - Oscillators.md",
     "📖Books/For Fun/Maxwell's Equations.md",
@@ -197,7 +195,6 @@
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_1 1.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_0 1.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29 1 1.md",
-    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-24_2.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "📖Books/For Fun",
