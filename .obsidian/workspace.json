@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/Summary.md"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
+    "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "🛠️ToolBox/Extras/Electrical Current.md",
-    "📖Books/📘Introduction To Probability And Statistics/Summary.md",
     "📖Books/📘Introduction To Probability And Statistics",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "Ground.md",
@@ -198,7 +199,6 @@
     "📓Classes/📁ECE 3204 - Analog Electronics/📋 Lecture 2.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_3 1.md",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_2 1.md",
-    "📓Classes/📁ECE 3204 - Analog Electronics/Drawings/2024-01-29_1 1.md",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "📖Books/For Fun",
