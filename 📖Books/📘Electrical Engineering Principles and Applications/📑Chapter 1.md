@@ -15,6 +15,7 @@ The first is, how we control the flow of electricity and the flow of energy. For
 
 >[!summary] Section Summary
 >An **Electrical Circuit** is a circuit which typically consists of various [[Circuit Element|circuit elements]](resistors, capacitors, inductors..., etc) which control [[Electrical Current|current]] and [[Voltage|voltage]] in a closed path, which is connected by [[Conductor|conductors]].  
+>>[!example] Example:
 ![](Pasted%20image%2020231105123024.png)
->In the above picture, we see an example of a simple resistive circuit.
+>In the above picture, we see an example of a simple resistive circuit. Starting from the positive end of the voltage source *(**V**)* , electrons travel through the resistors, into the negative end of the circuit, making a complete circuit. At the bottom of the circuit, we see the upside down triangle indicating [[Ground|rail]]
 
