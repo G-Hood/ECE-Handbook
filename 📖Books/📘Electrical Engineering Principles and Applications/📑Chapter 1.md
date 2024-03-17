@@ -22,6 +22,12 @@ The first is, how we control the flow of electricity and the flow of energy. For
 >
 >>[!caution] Note!
 >>It's important to remember that V=IR is an empirical model that makes design and analysis of circuits easy. In reality, electrons and the interactions between them and our circuits is much MUCH more complex.
+>
+>
+>>[!example] Other Examples:
+>>[[Fluid Analogy]]
+>>[[Mechanical Gears Analogy]]
+>>[[Basic Light Bulb Circuit]]
 
 
 
