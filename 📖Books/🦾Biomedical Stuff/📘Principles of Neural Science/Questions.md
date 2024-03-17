@@ -11,5 +11,6 @@
 >- What is the conscious mind and the subconscious
 >- Why are dreams so wacky and often fantastical
 >- In what way is the neural circuit analogous or similar to electrical circuits
+>- How do neurons connect, how many connections can one make
 
 
