@@ -30,7 +30,15 @@ The first is, how we control the flow of electricity and the flow of energy. For
 >>[[Basic Light Bulb Circuit]]
 
 
+### Circuit Elements
 
+>[!summary] Elements
+>A circuit consists of many different elements, the most common being:
+>[[Capacitor|Capacitors]]
+>[[Inductor|Inductors]]
+>[[Resistor|Resistors]]
+>[[Voltage|Voltage Source]]
+>[[Current|Current Source]]
 
 
 

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluid Analogy.md",
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluid Analogy.md",
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluid Analogy.md",
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluid Analogy.md"
+                "file": "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
+    "Fluid Analogy.md",
     "🛠️ToolBox/Images/Figure-1-Circuit-Diagram-for-series-parallel-resistors-1441371589.gif",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
-    "Fluid Analogy.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
@@ -214,7 +214,6 @@
     "🛠️ToolBox/Images/Pasted image 20231105122736.png",
     "🛠️ToolBox/Images/Pasted image 20231101105555.png",
     "🛠️ToolBox/Images/Pasted image 20231101105547.png",
-    "🛠️ToolBox/Images/Pasted image 20231101105541.png",
-    "_1b21e2da-1d4d-4eab-a46b-e7cd8c319da3.jpg"
+    "🛠️ToolBox/Images/Pasted image 20231101105541.png"
   ]
 }
