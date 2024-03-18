@@ -8,4 +8,12 @@
 >[!info] Key
 >Units: Amps (A)
 >Unit Derivations: $$ A=\frac{C}{s}=\frac{Coulombs}{Second}$$
+>Flow of Current:
+>$$i(t) = \frac{dq(t)}{dt} = \frac{\text{change in charge}}{\text{change in time}} $$
+>
+>$$ q(t) = \int $$
+
+
+
+
 
