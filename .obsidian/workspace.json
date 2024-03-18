@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+                "file": "Fluid Analogy.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+                "file": "Fluid Analogy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
+                "file": "Fluid Analogy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md"
+                "file": "Fluid Analogy.md"
               }
             }
           }
@@ -170,19 +170,20 @@
   },
   "active": "f6c755863df410db",
   "lastOpenFiles": [
+    "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
+    "Fluid Analogy.md",
+    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑An Intro.md",
     "Untitled 1.md",
     "Untitled.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/🌎Summary.md",
-    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",
     "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "🛠️ToolBox/Extras/Electrical Current.md",
     "📖Books/📘Introduction To Probability And Statistics",
-    "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "Ground.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 6.md",
     "🛠️ToolBox/📋Maintenance.md",
@@ -199,7 +200,6 @@
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Untitled",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings/2024-01-22.md",
     "📓Classes/📁ECE 3105 - Electromagnetic Fields/Drawings/2024-01-24.md",
-    "📓Classes/📁ECE 3105 - Electromagnetic Fields/📋 Lecture 5.md",
     "📓Classes/📁ECE 3074 - AC Lab",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
