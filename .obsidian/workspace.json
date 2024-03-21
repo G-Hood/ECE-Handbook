@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b32699b52812189",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6c755863df410db",
+  "active": "8b32699b52812189",
   "lastOpenFiles": [
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "Fluid Analogy.md",
