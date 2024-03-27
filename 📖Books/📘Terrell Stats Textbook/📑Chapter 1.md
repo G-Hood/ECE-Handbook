@@ -15,4 +15,8 @@ While simple laws like Ohms law often give us the predictive power we need. When
 
 
 >[!important] Key Point:
->The development of models and statistical analysis
+>The development of models and statistical analysis relies heavily on concepts of probability.
+
+## 1.1 Interpreting Probabilities
+
+                       
