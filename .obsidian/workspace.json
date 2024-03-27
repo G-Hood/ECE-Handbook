@@ -4,77 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "d40800765bad9dfb",
-        "type": "split",
+        "id": "15112030612a64ad",
+        "type": "tabs",
         "children": [
           {
-            "id": "15112030612a64ad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c6a9b60f0fb636e2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
-                  }
-                }
-              },
-              {
-                "id": "f6c755863df410db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🛠️ToolBox/Extras/Electrical Current.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8b32699b52812189",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "12d08c3b95a8c9b2"
+            "id": "c6a9b60f0fb636e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "47bd3e7ead02348e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a53ad45e46a70641",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                },
-                "group": "12d08c3b95a8c9b2"
+            "id": "f6c755863df410db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛠️ToolBox/Extras/Electrical Current.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "8b32699b52812189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
+                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
+                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md"
+                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md"
               }
             }
           }
@@ -214,11 +182,14 @@
   },
   "active": "8b32699b52812189",
   "lastOpenFiles": [
+    "Test.md",
+    "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
+    "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
+    "📖Books/📘Terrell Stats Textbook",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 16/🔖Chapter 16 Summary.md",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 3/🔖Chapter 3 Summary.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Test.md",
     "Ground.md",
     "Fluid Analogy.md",
     "Circuit Element.md",
@@ -239,8 +210,6 @@
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
-    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑An Intro.md",
-    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/🌎Summary.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",
     "📖Books/📘Introduction To Probability And Statistics",
@@ -250,7 +219,6 @@
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
     "📖Books/For Fun",
     "📓Classes/📁ECE 3204 - Analog Electronics/Drawings",
-    "📓Classes/📁ECE 3204 - Analog Electronics",
     "🛠️ToolBox/Images/Pasted Image 20231101102348_388.png",
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
