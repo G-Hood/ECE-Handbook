@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md"
               }
             }
           }
@@ -182,8 +182,11 @@
   },
   "active": "8b32699b52812189",
   "lastOpenFiles": [
-    "Ohm's Law.md",
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
+    "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
+    "Ohm's Law.md",
     "Test.md",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
     "📖Books/📘Terrell Stats Textbook",
@@ -206,10 +209,7 @@
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 2.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 1.md",
-    "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 6.md",
     "🛠️ToolBox/Images/Figure-1-Circuit-Diagram-for-series-parallel-resistors-1441371589.gif",
-    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/Questions.md",
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",
     "📖Books/📘Introduction To Probability And Statistics",
