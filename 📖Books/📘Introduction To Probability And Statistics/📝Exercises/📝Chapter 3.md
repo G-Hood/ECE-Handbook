@@ -5,9 +5,12 @@
 >>[!success] Solution
 >>In this question, the person is stopping when they eat 3 chocolates. Since we stop at 3 chocolates and we want to know the probability that they have eaten exactly 7 chocolates. We can say that the 7th candy is a chocolate thus:
 >>$$P(X=7)= \frac{1}{2}*\text{ probability first}\frac{2}{6} \text{ are chocolate}$$
-
-
 >>
+>>To find the probability that 2 of the first 6 candies are chocolate, we go back to [📑Chapter 1](📖Books/📘Introduction%20To%20Probability%20And%20Statistics/📑Chapter%201.md). 
+
+
+
+
 
 
 
