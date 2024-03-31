@@ -7,7 +7,7 @@
 >>$$P(X=7)= \frac{1}{2}*\text{ probability first}\frac{2}{6} \text{ are chocolate}$$
 >>
 >>To find the probability that 2 of the first 6 candies are chocolate, we go back to [📑Chapter 1](📖Books/📘Introduction%20To%20Probability%20And%20Statistics/📑Chapter%201.md). We want to find the probability that we get 2 of the 3 chocolates when choosing 6 of 8 candies. Applying a [[Hypergeometric Probability]], we get:
->>$$ \binom{2}{3} \binom{$$
+>>$$ p(x)= \frac{\binom{3}{2} \binom{5}{4}}{\binom{8}{6}}*\frac{1}{2}$$
 >>
 
 
