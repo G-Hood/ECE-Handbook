@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "201e288aec3e287a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b32699b52812189",
+  "active": "201e288aec3e287a",
   "lastOpenFiles": [
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 3.md",
