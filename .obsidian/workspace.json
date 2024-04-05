@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,8 +186,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b21fb7fc31e7895f",
+  "active": "201e288aec3e287a",
   "lastOpenFiles": [
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
@@ -219,7 +216,6 @@
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
     "📖Books/📘Fundamentals of Electric Circuits/🌎Home.md",
     "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 5.md",
-    "📖Books/📘Electromagnetics - Steven Ellingson/📑Chapter 3.md",
     "🛠️ToolBox/Images/Figure-1-Circuit-Diagram-for-series-parallel-resistors-1441371589.gif",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",
