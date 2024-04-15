@@ -1,3 +1,9 @@
+---
+aliases:
+  - Classical Approach
+  - Personal Approach
+  - Relative Frequency
+---
 
 
 >[!summary] Introduction:

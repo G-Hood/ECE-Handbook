@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ohm's Law.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ohm's Law.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ohm's Law.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ohm's Law.md"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
               }
             }
           }
@@ -195,11 +195,11 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
+    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "Ohm's Law.md",
     "README.md",
     "Ground.md",
-    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
     "Relative Frequency.md",
