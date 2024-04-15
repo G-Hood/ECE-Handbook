@@ -11,9 +11,11 @@
             "id": "c6a9b60f0fb636e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -47,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "basic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,16 +193,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "201e288aec3e287a",
+  "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
-    "Relative Frequency.md",
+    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+    "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
+    "Relative Frequency.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
     "README.md",
     "Test.md",
-    "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 3.md",
-    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises",
     "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
@@ -221,7 +223,6 @@
     "📖Books/📘Electrical Engineering Principles and Applications/🌎Home.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
     "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
-    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 1.md",
     "🛠️ToolBox/Images/Figure-1-Circuit-Diagram-for-series-parallel-resistors-1441371589.gif",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",

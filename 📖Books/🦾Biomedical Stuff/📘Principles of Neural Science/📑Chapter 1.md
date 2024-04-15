@@ -1,6 +1,4 @@
 
-#BasicsOfBehavior
-
 >[!important] Highlights:
 >- Two Opposing Views Have Been Advanced on the
  >- Relationship Between Brain and Behavior

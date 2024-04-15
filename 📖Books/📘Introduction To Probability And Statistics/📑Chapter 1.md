@@ -6,7 +6,7 @@
 >>[!example] Example:
 >>One example of this is with [[Ohm's Law]]. Where we say V= IR
 
-# 1.1
+# 1.1 What are the Odds?
 
 >[!summary] Key Points
 >- Probability is a number between 0 and 1
@@ -20,10 +20,13 @@
 >  >[!example] Three Methods with a Coin Flip
 >  >A coin will be flipped once, call heads or tails?
 >  >**Personal Approach: ** "I have a feeling it'll be heads"
->  >**Relative Frequency:** I flipped this coin 10 times and I got 6 heads, and 4 tails, so heads, as there is a 0.6 probability of heads, which is slightly higher than tails. $p=\frac{}
+>  >**Relative Frequency:** I flipped this coin 10 times and I got 6 heads, and 4 tails, so heads, as there is a 0.6 probability of heads, which is slightly higher than tails. $p=\frac{6}{10}$
 >  >**Classical Approach: **There are two ways it could go, and 1 way it would be heads, and 1 way it would be tails, therefore it doesn't really matter which you pick. $p=\frac{1}{2}$
 >  
 
 
 
+# 1.2 All the Possibilities
 
+>[!summary] Summary
+>
