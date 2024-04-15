@@ -18,7 +18,12 @@
 >- **Relative Frequency**: $\frac{Occurrences}{Trials}$ This method uses repeated trials, dividing the number of times an event occurs by the number of times it could've occurred. Pros: Fairly Accurate | Cons: Restricted to Events with repeatable trials
 >- **Classical Approach**- This method divides the number of way a specific event can occur, by the number of ways an experiment could proceed, given all events are equally likely. **Pros: Does Not Require Experiment | Cons: Only usable when events are equally likely**
 >  >[!example] Three Methods with a Coin Flip
->  >A coin will be flipped once, what is the probability that it's heads?
->  >**Personal Approach: ** 
+>  >A coin will be flipped once, call heads or tails?
+>  >**Personal Approach: ** "I have a feeling it'll be heads"
+>  >**Relative Frequency:** I flipped this coin 10 times and I got 6 heads, and 4 tails, so heads, as there is a 0.6 probability of heads, which is slightly higher than tails. $p=\frac{}
+>  >**Classical Approach: **There are two ways it could go, and 1 way it would be heads, and 1 way it would be tails, therefore it doesn't really matter which you pick. $p=\frac{1}{2}$
+>  
+
+
 
 
