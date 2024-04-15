@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "Ohm's Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "Ohm's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "Ohm's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
+                "file": "Ohm's Law.md"
               }
             }
           }
@@ -195,26 +195,26 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
-    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "Ohm's Law.md",
+    "README.md",
+    "Ground.md",
+    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
     "Relative Frequency.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
-    "README.md",
     "Test.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises",
     "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
-    "Ohm's Law.md",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
     "📖Books/📘Terrell Stats Textbook",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 16/🔖Chapter 16 Summary.md",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 3/🔖Chapter 3 Summary.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Ground.md",
     "Fluid Analogy.md",
     "Circuit Element.md",
     "📖Books/For Fun/Maxwell's Equations.md",

@@ -6,7 +6,7 @@
 >>[!example] Example:
 >>One example of this is with [[Ohm's Law]]. Where we say V= IR
 
-# 1.1 What are the Odds?
+## 1.1 What are the Odds?
 
 >[!summary] Key Points
 >- Probability is a number between 0 and 1
@@ -26,7 +26,8 @@
 
 
 
-# 1.2 All the Possibilities
+## 1.2 All the Possibilities
 
 >[!summary] Summary
+>As seen with the classical method, in many cases to determine the probability we need to know everything that CAN happen.
 >
