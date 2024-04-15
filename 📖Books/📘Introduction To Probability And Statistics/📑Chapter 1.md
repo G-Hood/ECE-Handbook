@@ -11,7 +11,7 @@
 >- Probability is a number between 0 and 1
 >- Tells how likely or unlikely an event is to occur with 1 being always and 0 being never, although most are between.
 >**Three Methods** 
->- Personal Approach: Making an informed assumption as a matter of opinion, based on the evidence available. Pros: Highly Available | Cons: Not necessarily Accurate
->- Relative Frequency: $\frac{Occurrences}{Tr}
+>- **Personal Approach**: Making an informed assumption as a matter of opinion, based on the evidence available, mostly useful in highly unique situations without precedent to make an statistical determination. Pros: Highly Available | Cons: Not necessarily Accurate
+>- **[[Relative Frequency|c]]**: $\frac{Occurrences}{Trials}$ This method uses repeated trials, dividing the number of times an event occurs by the number of times it could've occurred. Pros: Fairly Accurate | Cons: Restricted to Events with repeatable trials
 
 
