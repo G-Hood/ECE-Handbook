@@ -45,9 +45,11 @@
             "id": "201e288aec3e287a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
               }
             }
           }
