@@ -50,9 +50,9 @@ aliases:
 
 
 >[!note] Unions and Intersection
->To describe sample spaces for the outcome of two or more events, given that either or both occur we use the $\cup$ operator and the $\cap$ operator.
+>To describe sample spaces for the convolution of two or more sets, we use the $\cup$ operator and the $\cap$ operator.
 >
->$\cup$ - **Union** - This indicates  
+>$\cup$ - **Union** - This is logically equivalent to the [[OR]] logic. This means the sample space is a combination of all Sample Points in the two sets. **Example**: $A = {1, 3, 5}$ and $B = {2, 4, 6}$. So $A \cup B = {1, 2} 
 
 
 
