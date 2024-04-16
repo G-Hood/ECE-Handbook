@@ -90,7 +90,9 @@ aliases:
 
 
 >[!summary] Permutations of Indistinguishable Objects
->**Formula**: $\frac{n!}{n_1!*n_2!* ... }
+>**Formula**: $\frac{n!}{n_1!*n_2!* ... *n_k!}$
+>
+>**Explanation:** Given m, n, i, 
 
 
 
