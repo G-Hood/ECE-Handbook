@@ -37,5 +37,9 @@ aliases:
 >[!summary] Summary
 >As seen with the classical method, in many cases to determine the probability we need to know everything that CAN happen. Thus we must define the **[[Sample Space]]**.
 >![[Sample Space]]
->
+
+>[!example] Example Sample Space
+>A Gardener plants 3 flowers, a tulip, a rose, and a daffodil. After a year he wants to see which plants grew, what 
+
+
 
