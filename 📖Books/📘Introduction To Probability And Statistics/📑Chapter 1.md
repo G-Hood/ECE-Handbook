@@ -74,6 +74,8 @@ aliases:
 >**In Other Words:** With a combination we have N many options, and a bag with 3 slots, so we want to know how many different combinations of those options we can put in our bag. With a permutation we have N many options, and a [[Stack|stack]] with 3 slots, so we want to know how many different configurations of that stack we can make.
 
 >[!summary] Calculating Permutations
+>
+>Intuitively to calculate permutations, we consider the slots. In the first slot, we can choose any of the objects in the set, in the second slot we can choose any object in the set minus 1 which is in the first slot. And continue. Putting this into a formula we get: $_nP_r = \frac{n!}{(n-r)!}$. Where n is the number of objects and r is the number of slots. This works because, following the logic above, we multiply 
 
 
 
