@@ -73,6 +73,14 @@ aliases:
 >
 >**In Other Words:** With a combination we have N many options, and a bag with 3 slots, so we want to know how many different combinations of those options we can put in our bag. With a permutation we have N many options, and a [[Stack|stack]] with 3 slots, so we want to know how many different configurations of that stack we can make.
 
+>[!summary] Calculating Permutations
+
+
+
+
+>Intuitively we can recall a [[Binary Tree]] and [[Binary]]. If there is 1 option, there is one way to order it, if we have two numbers, it can be {0,0}, {0,1},{1,0},{1,1}. Add a third number and we double it.
+
+
 
 
 
