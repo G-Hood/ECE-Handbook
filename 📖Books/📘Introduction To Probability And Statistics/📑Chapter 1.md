@@ -49,10 +49,16 @@ aliases:
 >Given that the sample space **S** has 8 combinations, we can say $n(S) = 8$, for $n(A)$, we make a set of all the combinations where there is only 1 n. So $n(A) = 3$. Therefore using the Classical Approach the probability that $\frac{2}{3}$ flowers grow is $p = \frac{3}{8}$
 
 
->[!note] Unions and Intersection
+>[!abstract] Unions and Intersection
 >To describe sample spaces for the convolution of two or more sets, we use the $\cup$ operator and the $\cap$ operator.
 >
->$\cup$ - **Union** - This is logically equivalent to the [[OR]] logic. This means the sample space is a combination of all Sample Points in the two sets. **Example**: $A = {1, 3, 5}$ and $B = {2, 4, 6}$. So $A \cup B = {1, 2} 
+>$\cup$ - **Union** - This is logically equivalent to the [[OR]] logic. This means the sample space is a combination of all Sample Points in the two sets. **Example**: $A = \{0, 1, 3, 5\}$ and $B = \{0, 2, 4, 6\}$. So $A \cup B = \{1, 2, 3, 4, 5, 6\}$ 
+>
+>$\cap$ - **Intersection** - This is logically equivalent to the [[AND]] logic. In this case the set is defined by the set of sample points common to both events. **Example:** $A = \{0, 1, 3, 5, 10\}$ and $B = \{0, 2, 4, 6, 10\}$. So $A \cap B = \{0, 10\}$ 
+
+>[!summary] Mutually Exclusive Events
+>
+>
 
 
 
