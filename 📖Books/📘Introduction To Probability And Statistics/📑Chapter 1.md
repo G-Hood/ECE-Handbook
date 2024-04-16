@@ -68,7 +68,10 @@ aliases:
 
 >[!summary] Summary
 >As the size of experiments get too large, we employ alternate methods for calculating probability, rather than describing the entire sample space. These methods are:
->**Permutations: ** The
+>**Permutations:** The arrangement of objects in a specific order. 
+>**Combinations:** A set of objects regardless of order.
+>
+>**In Other Words:** With a combination we have N many options, and a bag with 3 slots, so we want to know how many different combinations of those options we can put in our bag. With a permutation we have N many options, and a [[Stack|stack]] with 3 slots, so we want to know how many different configurations of that stack we can make.
 
 
 
