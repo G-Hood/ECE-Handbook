@@ -36,6 +36,6 @@ aliases:
 
 >[!summary] Summary
 >As seen with the classical method, in many cases to determine the probability we need to know everything that CAN happen. Thus we must define the **[[Sample Space]]**.
->>![[Sample Space]]
+>![[Sample Space]]
 >
->
+
