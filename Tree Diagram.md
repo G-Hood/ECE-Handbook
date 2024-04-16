@@ -1,0 +1,1 @@
+The tree diagram is a useful tool for determining sample spaces, but also has a lot of use in data structures. 

@@ -39,7 +39,14 @@ aliases:
 >![[Sample Space]]
 
 >[!example] Example Sample Space
->A Gardener plants 3 flowers, a tulip, a rose, and a daffodil. After a year he wants to see which plants grew, what 
+>A Gardener plants 3 flowers. After a year he wants to see how many grew, what are the possible outcomes:
+>In this case the sample space would be ${yyy, yyn, ynn, nyy, nyn, nny, nnn}$. y corresponding to having grown, n corresponding to it not having grown.
+>[[Tree Diagram|Tool for Determining]] sample spaces
+
+Sample spaces are used to give the set of all possibilities for a given experiment, therefore one sample space may be the subset of another.
+
+>[!]
+
 
 
 
