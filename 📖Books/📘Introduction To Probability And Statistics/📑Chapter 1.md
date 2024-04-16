@@ -75,7 +75,13 @@ aliases:
 
 >[!summary] Calculating Permutations
 >
->Intuitively to calculate permutations, we consider the slots. In the first slot, we can choose any of the objects in the set, in the second slot we can choose any object in the set minus 1 which is in the first slot. And continue. Putting this into a formula we get: $_nP_r = \frac{n!}{(n-r)!}$. Where n is the number of objects and r is the number of slots. This works because, following the logic above, we multiply 
+>Intuitively to calculate permutations, we consider the slots. In the first slot, we can choose any of the objects in the set, in the second slot we can choose any object in the set minus 1 which is in the first slot. And continue. Putting this into a formula we get: $_nP_r = \frac{n!}{(n-r)!}$. Where n is the number of objects and r is the number of slots. This works because, following the logic above, we multipy our options **n** for the first slot, **n-1** for the second slot, etc, until we run out of slots. Where we can just divide by the remaining objects, so that after all slots are filled $(n-r)!$ cancels out any remaining multiplication done by $n!$.
+
+>[!summary] Calculating Combinations
+>Calculating Combinations follows a similar logic to permutations. That is: $_nC_r = \frac{n!}{r!(n-r)!}$ We use the same logic of finding the number of objects we can choose for each slot, and multiply it by the next minus 1. However we also divide by the factorial of the number of slots. Basically removing the arrangement from the problem such that each set only occurs once.
+
+
+
 
 
 
