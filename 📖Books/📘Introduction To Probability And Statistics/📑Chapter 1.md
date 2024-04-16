@@ -46,8 +46,15 @@ aliases:
 
 >[!example] Applying Sample Spaces to Classical Approach
 >Using the above example, what is the probability that only two flowers grow?
->Given that the sample space **S** has 8 combinations, we can say $n(S) = 8$, for $n(A)$, we make a set of all the combinations where there is only 1 n. So $n(A) = 3$. Therefore using the Classical Approach the probability that $\frac{2}{3} flowers grow
+>Given that the sample space **S** has 8 combinations, we can say $n(S) = 8$, for $n(A)$, we make a set of all the combinations where there is only 1 n. So $n(A) = 3$. Therefore using the Classical Approach the probability that $\frac{2}{3}$ flowers grow is $p = \frac{3}{8}$
+
+
+>[!note] Unions and Intersection
+>To describe sample spaces for the outcome of two or more events, given that either or both occur we use the $\cup$ operator and the $\cap$ operator.
 >
+>$\cup$ - **Union** - This indicates  
+
+
 
 
 
