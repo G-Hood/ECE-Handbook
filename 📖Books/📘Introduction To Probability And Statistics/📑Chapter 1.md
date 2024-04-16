@@ -80,15 +80,17 @@ aliases:
 >[!summary] Calculating Combinations
 >Calculating Combinations follows a similar logic to permutations. That is: $_nC_r = \frac{n!}{r!(n-r)!}$ We use the same logic of finding the number of objects we can choose for each slot, and multiply it by the next minus 1. However we also divide by the factorial of the number of slots. Basically removing the arrangement from the problem such that each set only occurs once.
 
-
-
-
-
-
+>[!important] Relationship Between Combinations and Permutations
+>As they share similar characteristics we can describe their relationship as:
+>$_nP_r = _nC_r *r!$
+>and
+>$_nC_r = \frac{_nP_r}{r!} = \frac{n!}{r!(n-r)!}$
 
 >Intuitively we can recall a [[Binary Tree]] and [[Binary]]. If there is 1 option, there is one way to order it, if we have two numbers, it can be {0,0}, {0,1},{1,0},{1,1}. Add a third number and we double it.
 
 
+>[!summary] Permutations of Indistinguishable Objects
+>**Formula**: $\frac{n!}{n_1!*n_2!* ... }
 
 
 
