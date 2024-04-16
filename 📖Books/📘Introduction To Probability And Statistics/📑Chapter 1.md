@@ -27,7 +27,7 @@ aliases:
 >  >A coin will be flipped once, call heads or tails?
 >  >**Personal Approach: ** "I have a feeling it'll be heads"
 >  >**Relative Frequency:** I flipped this coin 10 times and I got 6 heads, and 4 tails, so heads, as there is a 0.6 probability of heads, which is slightly higher than tails. $p=\frac{6}{10}$
->  >**Classical Approach: **There are two ways it could go, and 1 way it would be heads, and 1 way it would be tails, therefore it doesn't really matter which you pick. $p=\frac{1}{2}$
+>  >**Classical Approach: **There are two ways it could go, and 1 way it would be heads, and 1 way it would be tails, therefore it doesn't really matter which you pick. $p=\frac{n(A)}{n(S)}$
 >  
 
 
@@ -40,12 +40,18 @@ aliases:
 
 >[!example] Example Sample Space
 >A Gardener plants 3 flowers. After a year he wants to see how many grew, what are the possible outcomes:
->In this case the sample space would be ${yyy, yyn, ynn, nyy, nyn, nny, nnn}$. y corresponding to having grown, n corresponding to it not having grown.
+>In this case the sample space would be ${\{yyy, yyn,yny, ynn, nyy, nyn, nny, nnn\}}$. y corresponding to having grown, n corresponding to it not having grown.
 >[[Tree Diagram|Tool for Determining]] sample spaces
 
-Sample spaces are used to give the set of all possibilities for a given experiment, therefore one sample space may be the subset of another.
 
->[!]
+>[!example] Applying Sample Spaces to Classical Approach
+>Using the above example, what is the probability that only two flowers grow?
+>Given that the sample space **S** has 8 combinations, we can say $n(S) = 8$, for $n(A)$, we make a set of all the combinations where there is only 1 n. So $n(A) = 3$. Therefore using the Classical Approach the probability that $\frac{2}{3} flowers grow
+>
+
+
+
+
 
 
 
