@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a2be9a369d6d2fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f6c755863df410db",
             "type": "leaf",
             "state": {
@@ -195,8 +207,9 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
-    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
+    "Sample Space.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
     "Ohm's Law.md",
     "README.md",
     "Ground.md",
@@ -222,7 +235,6 @@
     "📓Classes/📁ECE 1004 - Introduction to Electrical Engineering/🌎 Summary.md",
     "📖Books/📘Electrical Engineering Principles and Applications/🌎Home.md",
     "📖Books/📘Electrical Engineering Principles and Applications/📑Chapter 1.md",
-    "📖Books/📘Fundamentals of Electric Circuits/📑Chapter 2.md",
     "🛠️ToolBox/Images/Figure-1-Circuit-Diagram-for-series-parallel-resistors-1441371589.gif",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",
