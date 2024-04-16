@@ -64,7 +64,7 @@ aliases:
 >>[!example] Example of Mutually Exclusive Events
 >>In an accident prone society, researchers at OSHA want to know the probability of someone dying on the job. As people can't die twice, the probability of dying on the job, is the sum of all ways people die on the job divided by the people who don't.
 
-## 1.3 - Permutations and Combinations
+## 1.3 Permutations and Combinations
 
 >[!summary] Summary
 >As the size of experiments get too large, we employ alternate methods for calculating probability, rather than describing the entire sample space. These methods are:
