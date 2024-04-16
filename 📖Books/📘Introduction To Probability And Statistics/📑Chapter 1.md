@@ -58,7 +58,8 @@ aliases:
 
 >[!summary] Mutually Exclusive Events
 >
->
+>Any two events which cannot occur at the same time, such that:
+>$S_m \cup S_n = \varnothing$ and $S_m \cap S_n = \varnothing$ where $m \neq n$
 
 
 
