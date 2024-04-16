@@ -11,8 +11,12 @@
             "id": "c6a9b60f0fb636e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -137,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
+              }
             }
           }
         ]
@@ -199,6 +207,7 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "Tree Diagram.md",
     "Sample Space.md",
@@ -209,7 +218,6 @@
     "🛠️ToolBox/Excalidraw/FoEC-Chapter14-Prob-14-1.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
     "Relative Frequency.md",
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
     "Test.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises",
