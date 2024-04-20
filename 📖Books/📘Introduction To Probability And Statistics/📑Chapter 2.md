@@ -89,7 +89,7 @@
 > 
 >**Definition:** $P[A_j | B] = \frac{P[B|A_j]P[A_j]}{\sum _{i=1} ^n P[B|A_i]P[A_i]}$
 >
->A More Digestable But Less Rig:
+>A More Digestible But Less Rigorous Definition:
 >$P[A|B] = \frac{P[B|A]*P[A]}{P[B]}$
 >
 >
