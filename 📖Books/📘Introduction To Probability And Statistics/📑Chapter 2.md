@@ -50,7 +50,9 @@
 >>- Saturday - Rainy, Cloudy
 >>- Sunday, Cloudy
 >>  
->>  Using the dataset we can intuitively say that it rained $\frac{2}{7} days during the week. So the $P[Rain]$ during the week is $\frac{2}{7}$, however say it's a cloudy day and we want to predict if it'll rain. Well, intuitively we can see it was cloudy on $\frac{5}{7}$ days. On days in which it was cloudy it rained twice.  
+>>  Using the dataset we can intuitively say that it rained $\frac{2}{7} days during the week. So the $P[Rain]$ during the week is $\frac{2}{7}$, however say it's a cloudy day and we want to predict if it'll rain. Well, intuitively we can see it was cloudy on $\frac{5}{7}$ days. On days in which it was cloudy it rained twice. So, while on any given day the probability of rain is $\frac{2}{7}$. If it's cloudy we can say $P[Rain|Cloudy] = \frac{\frac{2}{7}}{\frac{5}{7}}=0.4$  thus on a day it's cloudy, we have a $\frac{2}{5}$ chance of rain vs a $\frac{2}{7}$ chance on any day. 
+
+## Independent Probabilities
 
 
 
