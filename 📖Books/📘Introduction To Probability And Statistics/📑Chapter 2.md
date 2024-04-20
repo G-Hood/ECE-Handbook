@@ -39,7 +39,18 @@
 >**Intuition**: Consider the weather on any given day, if it's cloudy there is a higher probability that it rains, as we know rain precipitates from clouds. If it's sunny and clear, intuitively we know it's less likely to rain. 
 >
 >**Definition**: $P[A_2|A_1] = \frac{P[A_1 \cap A_2]}{P[A_1]}$
->That is to say, the probability that event $A_2$ occurs, given that $A_1$ has already occurred is equal to the intersection of it
+>That is to say, the probability that event $A_2$ occurs, given that $A_1$ has already occurred is equal to the intersection of it $A_1$ and $A_2$ divided by the probability that $A_1$ occurs.
+>>[!example]- Example
+>>Recall the weather example, in data for weather during any week:
+>>- Monday - Rainy, Cloudy
+>>- Tuesday - Cloudy
+>>- Wednesday - Sunny, Cloudy
+>>- Thursday - Sunny
+>>- Friday - Sunny
+>>- Saturday - Rainy, Cloudy
+>>- Sunday, Cloudy
+>>  
+>>  Using the dataset we can intuitively say that it rained $\frac{2}{7} days during the week. So the $P[Rain]$ during the week is $\frac{2}{7}$, however say it's a cloudy day and we want to predict if it'll rain. Well, intuitively we can see it was cloudy on $\frac{5}{7}$ days. On days in which it was cloudy it rained twice.  
 
 
 
