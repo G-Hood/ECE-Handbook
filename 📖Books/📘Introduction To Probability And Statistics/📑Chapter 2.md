@@ -60,7 +60,9 @@
 >**Intuition:** If we want to calculate the probability of winning the jackpot of a Powerball drawing. We calculate the probability of all our numbers being drawn. The ticket has 5 numbers drawn from one pool of ball, and a single number from a second pool of balls. Whatever balls are drawn from the first pool, has no effect on what is drawn from the second pool. Therefore we have independent probabilities, which both play a role in determining our likelihood of winning.
 >
 >**Definition:** $P[A_1 \cap A_2] = P[A_1]P[A_2]$
->That is, a probability is independent if the intersection of the two events, is the product of t
+>That is, a probability is independent if the intersection of the two events, is the product of the two independent probabilities. 
+>>[!example]- 
+>>In a game of Monopoly, you role 2 dice. What is the probability that you get double 6's. Well intuitively, we know that there is a $\frac{1}{6}$ chance of rolling a 6. This is true for both dice. Thus to find the intersection {6,6}, we can simply multiply the individual probabilities: $\frac{1}{6} * \frac{1}{6} = \frac{1}{36}$. We can further understand this result, by looking at the total number of pairs of numbers,  
 
 
 
