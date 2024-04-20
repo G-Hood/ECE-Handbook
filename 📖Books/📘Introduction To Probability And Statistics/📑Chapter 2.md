@@ -85,6 +85,9 @@
 >
 >Allows us to find the probability $P[A|B]$ when the data available does not fit the requirements to apply the definitions we previously defined.
 >
+>Given a collection of [[📖Books/📘Introduction To Probability And Statistics/📑Chapter 1#^4e74a4|mutually exclusive]] events $A$ where the Union of all $A$ makes up the [[Sample Space]] $S$, and B an event such that $P[B] \neq 0$.
+> 
 >**Definition:** $P[A_j | B] = \frac{P[B|A_j]P[A_j]}{\sum _{i=0} ^n P[B|A_i]P[A_i]}$
->Given a collection of mutually exclusive events $A$ where the Union of all $A$ makes up the [[Sample Space]] $S$.  
+>
+>
 
