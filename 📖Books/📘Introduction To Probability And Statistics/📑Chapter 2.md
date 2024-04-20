@@ -62,9 +62,13 @@
 >**Definition:** $P[A_1 \cap A_2] = P[A_1]P[A_2]$
 >That is, a probability is independent if the intersection of the two events, is the product of the two independent probabilities. 
 >>[!example]- 
->>In a game of Monopoly, you role 2 dice. What is the probability that you get double 6's. Well intuitively, we know that there is a $\frac{1}{6}$ chance of rolling a 6. This is true for both dice. Thus to find the intersection {6,6}, we can simply multiply the individual probabilities: $\frac{1}{6} * \frac{1}{6} = \frac{1}{36}$. We can further understand this result, by looking at the total number of pairs of numbers,  
+>>In a game of Monopoly, you role 2 dice. What is the probability that you get double 6's. Well intuitively, we know that there is a $\frac{1}{6}$ chance of rolling a 6. This is true for both dice. Thus to find the intersection {6,6}, we can simply multiply the individual probabilities: $\frac{1}{6} * \frac{1}{6} = \frac{1}{36}$. We can further understand this result, by looking at the total number of pairs of numbers, we have 36 possibilities of pairs and only 1 of them is both 6's. We could also apply this principle to both dice rolling odd numbers.  
 
-
+>[!caution] Checking for Independence
+>It is not always clear if two events are independent. Two events are only independent if:
+>$P[A_2|A_1] = P[A_2]$ Given that $P[A_1] \neq 0$
+>	*and*
+>$P[A_1|A_2] = P[A_1]$ Given that $P[A_2] \neq 0$
 
 
 
