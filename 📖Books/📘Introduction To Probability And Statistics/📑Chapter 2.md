@@ -34,6 +34,15 @@
 ## Conditional Probability
 
 >[!summary] Conditional Probability
->In cases where probability is not mutually exclu
+>In cases where probability is not mutually exclusive, the probability that one event occurs may be higher or lower given that another event has already occurred. 
+>
+>**Intuition**: Consider the weather on any given day, if it's cloudy there is a higher probability that it rains, as we know rain precipitates from clouds. If it's sunny and clear, intuitively we know it's less likely to rain. 
+>
+>**Definition**: $P[A_2|A_1] = \frac{P[A_1 \cap A_2]}{P[A_1]}$
+>That is to say, the probability that event $A_2$ occurs, given that $A_1$ has already occurred is equal to the intersection of it
+
+
+
+
 
 
