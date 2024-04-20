@@ -3,7 +3,7 @@
 
 
 
-## The Foundation of Probability
+## 2.1 The Foundation of Probability
 
 >[!summary] Summary - Axioms of Probability
 >Everything in probability is based on a few absolute rules/laws:
@@ -30,8 +30,8 @@
 >>In the case of $P[A_2] + P[A_3]$, we see $P[A_2] = \frac{4}{10}$, $P[A_3] = \frac{5}{10}$, and from observation we see that $A_2$ and $A_3$ have no numbers in common from the sample space, thus $P[A_2 \cap A_3] = 0$. 
 >>Therefore $P[A_2] + P[A_3] = \frac{4}{10} + \frac{5}{10} - \frac{0}{10} = \frac{9}{10}$
 
-
-## Conditional Probability
+---
+## 2.2 Conditional Probability
 
 >[!summary] Conditional Probability
 >In cases where probability is not mutually exclusive, the probability that one event occurs may be higher or lower given that another event has already occurred. 
@@ -52,7 +52,8 @@
 >>  
 >>  Using the dataset we can intuitively say that it rained $\frac{2}{7} days during the week. So the $P[Rain]$ during the week is $\frac{2}{7}$, however say it's a cloudy day and we want to predict if it'll rain. Well, intuitively we can see it was cloudy on $\frac{5}{7}$ days. On days in which it was cloudy it rained twice. So, while on any given day the probability of rain is $\frac{2}{7}$. If it's cloudy we can say $P[Rain|Cloudy] = \frac{\frac{2}{7}}{\frac{5}{7}}=0.4$  thus on a day it's cloudy, we have a $\frac{2}{5}$ chance of rain vs a $\frac{2}{7}$ chance on any day. 
 
-## Independent Probabilities
+---
+## 2.3 Independent Probabilities
 
 >[!summary] Independent Probabilities
 >In some cases we have probabilities where the outcome of one has no impact on the other. 
@@ -79,7 +80,8 @@
 >
 >The multiplication rule allows us to find the probability of any two events occurring simultaneously, regardless of if they are independent.
 
-## Bayes' Theorem
+---
+## 2.4 Bayes' Theorem
 
 >[!summary] Bayes' Theorem
 >
@@ -95,4 +97,4 @@
 >
 >**Intuition: ** #return 
 
-
+---

@@ -30,8 +30,7 @@ aliases:
 >  >**Classical Approach: **There are two ways it could go, and 1 way it would be heads, and 1 way it would be tails, therefore it doesn't really matter which you pick. $p=\frac{n(A)}{n(S)}$
 >  
 
-
-
+---
 ## 1.2 All the Possibilities
 
 >[!summary] Summary
@@ -66,6 +65,7 @@ aliases:
 
 ^4e74a4
 
+---
 ## 1.3 Permutations and Combinations
 
 >[!summary] Summary
@@ -96,7 +96,7 @@ aliases:
 >
 >**Explanation:** Given m, n, i, 
 
-
+---
 
 
 
