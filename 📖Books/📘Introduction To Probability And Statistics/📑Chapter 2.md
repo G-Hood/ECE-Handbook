@@ -76,7 +76,15 @@
 
 >[!summary] Multiplication Rule
 >**Definition:** $P[A_1\cap A_2] = P[A_2|A_1]P[A_1]$
+>
 >The multiplication rule allows us to find the probability of any two events occurring simultaneously, regardless of if they are independent.
 
+## Bayes' Theorem
 
+>[!summary] Bayes' Theorem
+>
+>Allows us to find the probability $P[A|B]$ when the data available does not fit the requirements to apply the definitions we previously defined.
+>
+>**Definition:** $P[A_j | B] = \frac{P[B|A_j]P[A_j]}{\sum _{i=0} ^n P[B|A_i]P[A_i]}$
+>Given a collection of mutually exclusive events $A$ where the Union of all $A$ makes up the [[Sample Space]] $S$.  
 
