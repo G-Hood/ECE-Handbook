@@ -31,6 +31,7 @@
 >>Therefore $P[A_2] + P[A_3] = \frac{4}{10} + \frac{5}{10} - \frac{0}{10} = \frac{9}{10}$
 
 
+## Conditional Probability
 
 
 
