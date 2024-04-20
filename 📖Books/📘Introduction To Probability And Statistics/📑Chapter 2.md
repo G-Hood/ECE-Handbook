@@ -17,11 +17,11 @@
 >Given the Axioms of Probability we can derive some other rules that are simply just consequences of these given 3 rules.
 >**Mutually Exclusive**
 >- $P[\varnothing] = 0.$ #return 
->- $P[A'] = 1 - P[A] | Given that the sum of all events $A$ in a sample space $S$ is 1. We can say that $A'$ is the probability of any event occurring except for event $A$, therefore the probability of $A$ not occurring, is the probability of any event within $S$ occurring minus the probability of $A$ occurring. This only applies when $S$ is entirely made of mutually exclusive events.
+>- $P[A'] = 1 - P[A]$ | Given that the sum of all events $A$ in a sample space $S$ is 1. We can say that $A'$ is the probability of any event occurring except for event $A$, therefore the probability of $A$ not occurring, is the probability of any event within $S$ occurring minus the probability of $A$ occurring. This only applies when $S$ is entirely made of mutually exclusive events.
 > >[!example]- 
 > >In a game of rock paper scissors, given any input, there are 3 possible outcomes, you win, you tie, or you lose. Given you play rock, there is a $\frac{1}{3} chance of you winning. There the probability that you don't win is $1-\frac{1/3} = \frac{2}{3}$. 
 >**Any Case**
->- $P[A_1 \cup A_2] = P[A_1] +P[A_2] - P[A_1 \cap A_2]$ | The Probability of any event occurring out of two subsets within the same sample space, is the probability of each occurring minus the intersection of the two events.
+>- **General Addition Rule:** $P[A_1 \cup A_2] = P[A_1] +P[A_2] - P[A_1 \cap A_2]$ | The Probability of any event occurring out of two subsets within the same sample space, is the probability of each occurring minus the intersection of the two events.
 >>[!example]- Example
 >>Given the set of numbers $\{1, 2, 3,4,5,6,7,8,9,10\}$. Subset $A_1$ is all odd numbers {1,3,5,7,9}$. Subset $A_2$ is all prime numbers $\{1,3,5,7\}$. Subset $A_3$ is all even numbers $\{2,4,6,8,10\}$. 
 >>To find $P[A_1 \cup A_2]$ we find the individual probabilities, minus the probabilities they have in common. That is: $P[A_1] = \frac{5}{10}$, $P_[A_2] = \frac{4}{10}$, and $P[A_1 \cap A_2] = \frac{4}{10}$ 
@@ -33,6 +33,7 @@
 
 ## Conditional Probability
 
-
+>[!summary] Conditional Probability
+>In cases where probability is not mutually exclu
 
 
