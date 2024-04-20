@@ -54,7 +54,8 @@
 
 ## Independent Probabilities
 
-
+>[!summary] Independent Probabilities
+>In some cases we have probabilities where the outcome of one has no impact on the other, 
 
 
 
