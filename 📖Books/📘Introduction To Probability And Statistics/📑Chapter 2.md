@@ -55,7 +55,14 @@
 ## Independent Probabilities
 
 >[!summary] Independent Probabilities
->In some cases we have probabilities where the outcome of one has no impact on the other, 
+>In some cases we have probabilities where the outcome of one has no impact on the other. 
+>
+>**Intuition:** If we want to calculate the probability of winning the jackpot of a Powerball drawing. We calculate the probability of all our numbers being drawn. The ticket has 5 numbers drawn from one pool of ball, and a single number from a second pool of balls. Whatever balls are drawn from the first pool, has no effect on what is drawn from the second pool. Therefore we have independent probabilities, which both play a role in determining our likelihood of winning.
+>
+>**Definition:** $P[A_1 \cap A_2] = P[A_1]P[A_2]$
+>That is, a probability is independent if the intersection of the two events, is the product of t
+
+
 
 
 
