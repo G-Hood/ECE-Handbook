@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md",
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md"
+                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md"
               }
             }
           }
@@ -207,10 +207,10 @@
   },
   "active": "c6a9b60f0fb636e2",
   "lastOpenFiles": [
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md",
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
     "Tree Diagram.md",
     "Sample Space.md",
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises/📝Chapter 4.md",
