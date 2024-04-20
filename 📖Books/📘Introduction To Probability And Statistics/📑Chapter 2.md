@@ -15,6 +15,10 @@
 
 >[!important] Derivations of Axioms
 >Given the Axioms of Probability we can derive some other rules that are simply just consequences of these given 3 rules.
+>**Mutually Exclusive**
 >- $P[\varnothing] = 0.$ #return 
+>- $P[A'] = 1 - P[A] | Given that the sum of all events $A$ in a sample space $S$ is 1. We can say that $A'$ is the probability of any event occurring except for event $A$, therefore the probability of $A$ not occurring, is the probability of any event within $S$ occurring minus the probability of $A$ occurring. This only applies when $S$ is entirely made of mutually exclusive events.
+>**Any Case**
+>- P[A_1 \cup A_2] = P[A_1] + P 
 
 
