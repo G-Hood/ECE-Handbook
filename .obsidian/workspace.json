@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "📖Books/For Fun/Maxwell's Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basic",
+                "query": "poisson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "📖Books/For Fun/Maxwell's Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "📖Books/For Fun/Maxwell's Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
+                "file": "📖Books/For Fun/Maxwell's Equations.md"
               }
             }
           }
@@ -220,8 +221,8 @@
   },
   "active": "9abf3ac7eb209ba9",
   "lastOpenFiles": [
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "Untitled 3.md",
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md",
