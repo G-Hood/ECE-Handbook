@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9abf3ac7eb209ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a2be9a369d6d2fe2",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
+                "file": "Untitled 3.md"
               }
             }
           }
@@ -205,16 +218,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6a9b60f0fb636e2",
+  "active": "9abf3ac7eb209ba9",
   "lastOpenFiles": [
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "Untitled 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 4.md",
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "Tree Diagram.md",
     "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "📖Books/📘Terrell Stats Textbook/📑Chapter 1.md",
-    "Untitled 3.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
