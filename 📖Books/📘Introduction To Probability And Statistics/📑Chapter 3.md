@@ -9,6 +9,10 @@
 >>While hard to count, the number of stars in the sky is a discrete variable, as there are a countably infinite number of them. If we were to examine the number of blue-shifted stars we would find there to be a discrete amount. However, if we were to do a statistical analysis on the velocity of them, speed is measured continuously, in that there are an infinite number of possibilities between 0 and 1, and any other number.
 
 ## 3.2 - Discrete Probability Densities
+
+>[!summary] Summary - Discrete
+>
+
 >[!important] **Definition:** Discrete Density Function
 >
 >$f(x)=P[X=x]$
