@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/📘Signals and Systems - Alan V Oppenheim/Chapter 1 - Signals and Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/📘Signals and Systems - Alan V Oppenheim/Chapter 1 - Signals and Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+                "file": "📖Books/📘Signals and Systems - Alan V Oppenheim/Chapter 1 - Signals and Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md"
+                "file": "📖Books/📘Signals and Systems - Alan V Oppenheim/Chapter 1 - Signals and Systems.md"
               }
             }
           }
@@ -159,10 +159,12 @@
   },
   "active": "4647fdf19bbc97cb",
   "lastOpenFiles": [
+    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
+    "📖Books/📘Signals and Systems - Alan V Oppenheim/Chapter 1 - Signals and Systems.md",
+    "📖Books/📘Signals and Systems - Alan V Oppenheim",
     "📖Books/📘Introduction To Probability And Statistics/🌎Summary.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 2.md",
     "📖Books/📘Introduction To Probability And Statistics/📑Chapter 3.md",
-    "📖Books/📘Introduction To Probability And Statistics/📑Chapter 1.md",
     "📖Books/📘Computer Architecture Design/📑Chapter 5.md",
     "📖Books/📘Computer Architecture Design/📑Chapter 2.md",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science/📑Chapter 1.md",
@@ -186,7 +188,6 @@
     "📖Books/📘Introduction To Probability And Statistics/📝Exercises",
     "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 4/🔖Chapter 4 Summary.md",
     "📖Books/📘Terrell Stats Textbook",
-    "📖Books/📘Microelectronics Circuit Analysis/📑Chapter 16/🔖Chapter 16 Summary.md",
     "🛠️ToolBox/Images/Figure-1-Circuit-Diagram-for-series-parallel-resistors-1441371589.gif",
     "📖Books/🦾Biomedical Stuff/📘Principles of Neural Science",
     "📖Books/🦾Biomedical Stuff",
@@ -195,7 +196,6 @@
     "📓Classes/📁ECE 3074 - AC Lab",
     "📓Classes/📁ECE 3004 - AC Analysis/Untitled",
     "📓Classes/📁ECE 3704 - Continuous and Discrete",
-    "📖Books/For Fun",
     "🛠️ToolBox/Images/Pasted Image 20231101102348_388.png",
     "🛠️ToolBox/Images/Pasted Image 20231101090902_044.png",
     "🛠️ToolBox/Images/Pasted image 20231105123024.png",
