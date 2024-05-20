@@ -10,3 +10,18 @@
 >As stated previously, a signal is anything that varies with a given independent variable. In this way you have likely already encountered signals in your academic career. In algebra, chemistry, etc. Some examples of signals are:
 >
 >- **Velocity:** Given a force applied to an object, a certain velocity will be generated.
+
+## 1.1.2 Signal Energy and Power
+
+>[!important] Power Formula
+>$$p(t) = v(t)*i(t) =\frac{1}{Z}v^2(t)$$
+>
+>Where:
+>- **p**: Power
+>- **v(t)**: Voltage
+>- **i(t)**: current
+>- **Z**: Resistance
+
+
+
+ 
